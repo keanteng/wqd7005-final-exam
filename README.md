@@ -7,5 +7,5 @@ This repository contains the code for the final exam of WQD7007. The exam consis
 1. Clone the repository to your local machine:
 
 ```bash
-git clone
+git clone https://github.com/keanteng/wqd7005-final-exam
 ```

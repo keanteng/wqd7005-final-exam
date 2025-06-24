@@ -1,0 +1,11 @@
+You are a data scienties tasked to DBSCAN clustering on a retail dataset with 8 indiviudals shops. All the shops purchase data are collected as such showing the first few rows:
+
+```
+StoreID,Date,total_revenue,avg_transaction_value,transaction_count,unique_customers,unique_products,total_quantity,total_discounts,revenue_per_customer,items_per_transaction
+1,2022-01-01,6510.12,171.31894736842105,38,12,27,75,150.01999999999998,542.51,1.9736842105263157
+1,2022-01-02,3683.01,175.3814285714286,21,10,17,41,112.7,368.30100000000004,1.9523809523809523
+1,2022-01-03,1943.75,161.97916666666666,12,5,12,23,33.36,388.75,1.9166666666666667
+1,2022-01-04,6051.44,208.6703448275862,29,11,21,63,7.84,550.1309090909091,2.1724137931034484
+```
+
+Perform the tasks using the data by suggesting relevant codes. I have provided you some sample for your reference but you are encourage to think out of the box

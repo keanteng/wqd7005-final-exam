@@ -1,0 +1,33 @@
+```csv
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Female,New York,Gold,25,1550.75,Electronics,2023-10-20,0.08,15.3,High,"Clicked Ads",Great product selection and fast shipping!,0.9,Loyal,0
+2,32,Male,Los Angeles,Silver,10,340.50,Clothing,2023-09-15,0.05,8.1,Medium,"No Ad Clicks",Items were okay, delivery took a bit long.,0.2,Bargain Hunter,0
+3,58,Female,Chicago,Platinum,55,4120.99,Home Goods,2023-10-25,0.12,22.5,High,"Clicked Ads",Absolutely love this store! Always find what I need.,1.0,Loyal,0
+4,22,Male,Houston,Bronze,3,85.10,Books,2023-04-01,0.03,3.5,Low,"No Ad Clicks",Didn't find much I liked, website was confusing.,-0.6,Infrequent,1
+5,67,Female,Phoenix,Gold,18,980.20,Beauty,2023-10-18,0.07,12.8,Medium,"Clicked Ads",Good service, but prices can be a bit high.,0.4,Frequent Buyer,0
+6,40,Male,Philadelphia,Silver,12,510.75,Sports,2023-09-28,0.06,9.2,High,"Clicked Ads",Decent variety, quick checkout process.,0.6,Engaged,0
+7,35,Female,San Antonio,Bronze,2,65.00,Electronics,2023-01-10,0.02,2.1,Low,"No Ad Clicks",Product broke quickly, customer service wasn't helpful.,-0.9,Dissatisfied,1
+8,50,Male,San Diego,Platinum,30,2500.45,Clothing,2023-10-24,0.10,18.7,High,"Clicked Ads",Premium items and excellent customer support!,1.0,Loyal,0
+9,28,Female,Dallas,Silver,7,210.90,Home Goods,2023-03-20,0.04,5.5,Medium,"No Ad Clicks",Found a few good deals, but not a regular stop.,0.1,Bargain Hunter,1
+10,62,Male,San Jose,Gold,20,1300.60,Books,2023-10-21,0.09,14.0,High,"Clicked Ads",Wide selection of books, always find something new.,0.8,Frequent Buyer,0
+11,29,Female,Austin,Bronze,1,35.00,Beauty,2022-11-05,0.01,1.5,Low,"No Ad Clicks",My single purchase wasn't great quality.,-0.7,Lapsed,1
+12,48,Male,Jacksonville,Silver,15,680.30,Sports,2023-10-19,0.07,10.5,Medium,"Clicked Ads",Reliable gear, good prices during sales.,0.7,Engaged,0
+13,38,Female,Indianapolis,Platinum,45,3500.80,Electronics,2023-10-26,0.11,20.1,High,"Clicked Ads",Top-tier electronics, always satisfied with purchases.,0.9,Loyal,0
+14,25,Male,Columbus,Bronze,4,120.00,Clothing,2023-02-15,0.03,4.0,Low,"No Ad Clicks",Website navigation was confusing.,-0.5,Infrequent,1
+15,53,Female,Fort Worth,Gold,22,1150.70,Home Goods,2023-10-22,0.08,13.5,High,"Clicked Ads",Love their home decor items!,0.9,Frequent Buyer,0
+16,31,Male,Charlotte,Silver,8,280.40,Books,2023-04-18,0.05,6.0,Medium,"No Ad Clicks",Decent selection, but nothing special.,0.1,Infrequent,1
+17,65,Female,San Francisco,Platinum,50,4800.50,Beauty,2023-10-26,0.13,24.0,High,"Clicked Ads",Exceptional products and service, worth the price.,1.0,Loyal,0
+18,27,Male,Seattle,Bronze,2,50.00,Sports,2022-12-01,0.02,2.5,Low,"No Ad Clicks",Product didn't meet expectations.,-0.8,Dissatisfied,1
+19,42,Female,Denver,Gold,28,1800.60,Electronics,2023-10-23,0.09,16.8,High,"Clicked Ads",Quick delivery and great product quality.,0.9,Loyal,0
+20,36,Male,Washington D.C.,Silver,11,450.90,Clothing,2023-05-10,0.04,7.0,Medium,"No Ad Clicks",Items were okay, but I found better deals elsewhere.,0.0,Bargain Hunter,1
+21,59,Female,Boston,Platinum,48,3900.20,Home Goods,2023-10-25,0.11,21.5,High,"Clicked Ads",Beautiful items, transformed my home!,1.0,Loyal,0
+22,24,Male,El Paso,Bronze,3,75.00,Books,2023-03-05,0.02,3.0,Low,"No Ad Clicks",Site was slow, didn't complete a purchase after the first.,-0.6,Lapsed,1
+23,51,Female,Detroit,Gold,20,1050.30,Beauty,2023-10-20,0.08,12.0,High,"Clicked Ads",Happy with my purchases, good quality.,0.8,Frequent Buyer,0
+24,33,Male,Nashville,Silver,9,320.00,Sports,2023-06-22,0.05,8.5,Medium,"No Ad Clicks",Bought one item, haven't needed anything since.,0.3,Infrequent,1
+25,68,Female,Portland,Platinum,52,4500.70,Electronics,2023-10-26,0.12,23.0,High,"Clicked Ads",Consistently excellent service and products.,1.0,Loyal,0
+26,26,Male,Las Vegas,Bronze,1,40.00,Clothing,2022-10-15,0.01,1.8,Low,"No Ad Clicks",Never came back after my first small order.,-0.4,Lapsed,1
+27,47,Female,Oklahoma City,Gold,23,1400.50,Home Goods,2023-10-21,0.09,15.0,High,"Clicked Ads",Found unique items for my house.,0.9,Frequent Buyer,0
+28,39,Male,Milwaukee,Silver,14,610.80,Books,2023-09-10,0.06,9.8,Medium,"Clicked Ads",Good selection of niche books.,0.7,Engaged,0
+29,60,Female,Albuquerque,Platinum,40,3200.90,Beauty,2023-10-24,0.10,19.5,High,"Clicked Ads",My go-to for high-quality beauty products.,1.0,Loyal,0
+30,30,Male,Tucson,Bronze,2,90.00,Sports,2023-01-25,0.02,2.3,Low,"No Ad Clicks",Didn't find what I was looking for easily.,-0.5,Dissatisfied,1
+```

@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Male,New York,Gold,78,1850.23,Electronics,2023-10-15,8.5%,35,8,Yes,"Excellent service and products!",0.9,Loyal,0
+2,32,Female,Los Angeles,Silver,45,987.55,Apparel,2023-11-20,6.2%,22,7,No,"Happy with my purchases.",0.7,Frequent Buyer,0
+3,58,Other,Chicago,Platinum,112,3500.10,Home Goods,2023-12-01,10.1%,48,9,Yes,"Simply the best online store!",1.0,Loyal,0
+4,25,Female,Houston,Bronze,10,150.70,Books,2023-09-05,4.5%,15,4,No,"Good variety, website could be faster.",0.4,New Customer,0
+5,51,Male,Phoenix,Gold,65,1560.90,Beauty,2023-11-11,7.8%,30,8,Yes,"Reliable and fast shipping.",0.8,Engaged,0
+6,39,Female,San Antonio,Silver,30,650.30,Groceries,2023-10-28,5.9%,18,6,No,"Satisfied with recent orders.",0.6,Frequent Buyer,0
+7,67,Male,San Diego,Platinum,155,4800.50,Electronics,2023-12-10,11.5%,55,10,Yes,"Unbeatable selection and quality.",1.0,Loyal,0
+8,29,Other,Dallas,Bronze,8,110.20,Apparel,2023-09-18,3.8%,12,3,No,"Okay experience, nothing special.",0.3,New Customer,0
+9,42,Female,San Jose,Gold,90,2100.75,Home Goods,2023-11-25,9.1%,38,8,Yes,"Always find what I need.",0.9,Loyal,0
+10,35,Male,Austin,Silver,50,1200.60,Books,2023-10-31,7.0%,25,7,No,"Enjoy browsing their collection.",0.7,Engaged,0
+11,48,Female,Jacksonville,Platinum,130,4100.80,Beauty,2023-12-05,10.8%,52,9,Yes,"Premium products and service.",1.0,Loyal,0
+12,22,Male,Fort Worth,Bronze,15,280.45,Groceries,2023-10-02,5.0%,16,5,No,"Decent, but prices can be high.",0.5,Explorer,0
+13,55,Other,Columbus,Gold,85,1950.30,Electronics,2023-11-18,8.8%,36,8,Yes,"Consistently good service.",0.9,Loyal,0
+14,37,Female,Charlotte,Silver,48,1050.70,Apparel,2023-10-22,6.5%,24,7,No,"Happy repeat customer.",0.7,Frequent Buyer,0
+15,62,Male,Indianapolis,Platinum,140,4500.90,Home Goods,2023-12-08,11.0%,50,10,Yes,"Highly recommended for quality.",1.0,Loyal,0
+16,28,Male,Seattle,Bronze,3,55.80,Books,2023-06-15,1.2%,5,1,No,"Website was confusing.",-0.5,Infrequent Buyer,1
+17,50,Female,Denver,Silver,7,120.30,Beauty,2023-07-20,2.5%,8,2,Yes,"Product wasn't what I expected.",-0.3,Dissatisfied,1
+18,34,Other,Washington,Bronze,1,25.00,Groceries,2023-04-01,0.8%,2,0,No,"Bad experience with delivery.",-0.8,One-Time Buyer,1
+19,46,Male,Boston,Gold,10,250.60,Electronics,2023-08-10,3.0%,10,3,No,"Didn't find enough options.",-0.2,Infrequent Buyer,1
+20,23,Female,Nashville,Bronze,2,30.50,Apparel,2023-05-05,1.5%,4,1,Yes,"Returns process was difficult.",-0.6,One-Time Buyer,1
+21,59,Male,El Paso,Silver,5,90.00,Home Goods,2023-07-28,2.0%,7,2,No,"Customer service wasn't helpful.",-0.4,Dissatisfied,1
+22,31,Female,Detroit,Bronze,4,75.20,Books,2023-06-22,1.0%,6,1,No,"Site performance was poor.",-0.5,Infrequent Buyer,1
+23,65,Other,Oklahoma City,Platinum,8,180.90,Beauty,2023-08-15,3.5%,11,3,Yes,"Disappointed with the quality.",-0.7,Dissatisfied,1
+24,26,Male,Portland,Bronze,1,15.00,Groceries,2023-03-10,0.5%,1,0,No,"Never received my order.",-1.0,One-Time Buyer,1
+25,49,Female,Las Vegas,Gold,6,100.70,Electronics,2023-07-01,2.8%,9,2,Yes,"Prices were too high.",-0.3,Infrequent Buyer,1
+26,38,Male,Memphis,Silver,3,45.00,Apparel,2023-05-18,1.8%,5,1,No,"Didn't like the selection.",-0.4,Dissatisfied,1
+27,53,Other,Louisville,Bronze,2,35.90,Home Goods,2023-04-25,0.9%,3,0,No,"Website crashed often.",-0.6,One-Time Buyer,1
+28,20,Female,Baltimore,Bronze,1,20.00,Books,2023-03-20,0.7%,2,0,Yes,"Not a good first impression.",-0.8,One-Time Buyer,1
+29,41,Male,Milwaukee,Silver,5,80.50,Beauty,2023-06-01,2.2%,8,1,No,"Expected more for the price.",-0.5,Dissatisfied,1
+30,56,Female,Albuquerque,Gold,7,140.30,Groceries,2023-08-05,3.2%,10,2,No,"Found better options elsewhere.",-0.3,Infrequent Buyer,1

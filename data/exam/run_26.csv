@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Male,New York,Gold,85,5200.50,Electronics,2024-07-20,0.07,15.2,4,Frequent,"Excellent service and products. Very satisfied!",0.92,Loyal,0
+2,32,Female,Los Angeles,Silver,30,850.75,Clothing,2023-01-15,0.02,4.5,2,Rare,"Had some issues with my last order. Disappointed.",-0.55,Casual Shopper,1
+3,58,Female,Chicago,Platinum,120,15500.00,Home Goods,2024-07-25,0.09,22.8,5,Frequent,"Top-tier membership is worth it. Always a pleasure.",0.98,Loyal,0
+4,22,Non-binary,Houston,Bronze,5,120.30,Books,2022-05-10,0.01,2.1,1,None,"Didn't find what I was looking for. Site felt clunky.",-0.70,Inactive,1
+5,51,Male,Phoenix,Gold,70,4800.90,Beauty,2024-06-30,0.06,18.0,4,Occasional,"Good range of products, though shipping was a bit slow.",0.75,Returning Customer,0
+6,38,Female,Philadelphia,Silver,45,1100.50,Electronics,2023-03-20,0.03,6.7,2,Rare,"Product broke quickly. Not happy.",-0.80,Dissatisfied,1
+7,29,Male,San Antonio,Bronze,12,350.80,Clothing,2024-05-18,0.05,9.1,3,Occasional,"Decent selection, fair prices.",0.60,Bargain Hunter,0
+8,65,Female,San Diego,Platinum,150,25000.00,Jewelry,2024-07-22,0.10,28.5,5,Frequent,"Unmatched quality and service. My go-to.",0.99,Loyal,0
+9,25,Male,Dallas,Bronze,8,200.15,Sports,2022-11-01,0.01,3.0,1,None,"Lost interest after the first purchase. Nothing exciting.",-0.40,Casual Shopper,1
+10,49,Female,San Jose,Gold,95,6200.70,Home Goods,2024-07-10,0.08,20.1,4,Frequent,"Consistently reliable and good quality items.",0.88,Returning Customer,0
+11,33,Male,Austin,Silver,38,950.20,Electronics,2023-05-05,0.02,5.8,2,Rare,"Had trouble contacting customer service.",-0.65,Casual Shopper,1
+12,60,Non-binary,Jacksonville,Platinum,115,14000.00,Fashion,2024-07-15,0.09,25.3,5,Frequent,"The exclusive offers are fantastic. Love the brand.",0.95,Loyal,0
+13,27,Female,Indianapolis,Bronze,3,80.00,Beauty,2022-08-22,0.01,1.5,1,None,"Just tried it once, didn't return.",-0.30,New Customer,1
+14,41,Male,San Francisco,Gold,80,5500.60,Technology,2024-07-18,0.07,16.5,4,Occasional,"Always find the latest gadgets here.",0.90,Returning Customer,0
+15,55,Female,Columbus,Silver,50,1300.40,Books,2023-07-30,0.03,7.2,2,Rare,"Found better prices elsewhere.",-0.50,Bargain Hunter,1
+16,30,Male,Fort Worth,Bronze,10,250.00,Clothing,2022-12-01,0.01,3.5,1,None,"Site experience was confusing.",-0.60,Inactive,1
+17,62,Female,Charlotte,Platinum,130,17000.00,Luxury Goods,2024-07-24,0.10,29.0,5,Frequent,"Exceptional products and personalized service.",0.99,Loyal,0
+18,47,Male,Detroit,Gold,75,5000.10,Home Goods,2024-07-01,0.08,19.5,4,Occasional,"Reliable site for home essentials.",0.85,Returning Customer,0
+19,24,Non-binary,El Paso,Bronze,6,150.00,Sports,2023-02-10,0.02,4.0,2,Rare,"Didn't see enough variety.",-0.45,Casual Shopper,1
+20,53,Female,Seattle,Silver,40,1000.80,Beauty,2023-04-18,0.03,6.0,2,Rare,"Items weren't exactly as pictured.",-0.70,Dissatisfied,1
+21,36,Male,Denver,Gold,90,5800.30,Electronics,2024-07-12,0.07,17.8,4,Frequent,"My preferred site for electronics purchases.",0.93,Loyal,0
+22,68,Female,Washington D.C.,Platinum,145,22000.00,Fine Art,2024-07-26,0.10,30.0,5,Frequent,"A truly exquisite collection and service.",1.00,Loyal,0
+23,28,Male,Boston,Bronze,7,180.50,Books,2023-01-25,0.01,2.5,1,None,"Forgot about this site after a while.",-0.35,Inactive,1
+24,43,Female,Nashville,Silver,35,900.60,Clothing,2023-06-08,0.02,5.5,2,Rare,"The quality wasn't what I expected.",-0.60,Dissatisfied,1
+25,59,Male,Baltimore,Gold,100,7000.00,Technology,2024-07-05,0.08,21.0,4,Frequent,"Always current tech available. Fast shipping.",0.91,Returning Customer,0
+26,21,Female,Portland,Bronze,4,100.00,Beauty,2022-09-15,0.01,1.8,1,None,"One-time purchase, wasn't memorable.",-0.40,New Customer,1
+27,50,Male,Oklahoma City,Silver,48,1200.70,Home Goods,2023-08-10,0.03,6.9,2,Rare,"Stock issues were annoying.",-0.55,Bargain Hunter,1
+28,63,Female,Las Vegas,Platinum,125,16500.00,Jewelry,2024-07-23,0.09,26.0,5,Frequent,"Stunning pieces and excellent customer care.",0.97,Loyal,0
+29,35,Male,Milwaukee,Bronze,9,220.40,Sports,2023-03-01,0.02,3.8,2,Rare,"Pricey compared to competitors.",-0.50,Casual Shopper,1
+30,48,Female,Albuquerque,Gold,88,5600.20,Fashion,2024-07-16,0.07,19.0,4,Occasional,"Liked the style selection. Will shop again.",0.89,Returning Customer,0

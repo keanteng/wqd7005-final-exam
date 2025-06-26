@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+C1001,35,Female,New York,Gold,55,3500.50,Apparel,2023-10-20,0.07,12.5,High,"Clicked on Sale Ads",Excellent products and fast shipping!,0.9,Loyal Customer,0
+C1002,48,Male,Los Angeles,Silver,12,450.75,Electronics,2022-05-15,0.03,3.1,Low,"Ignored Ads",Haven't found anything I need recently.,-0.2,Churn Risk,1
+C1003,22,Female,Chicago,Bronze,3,75.00,Beauty,2023-10-25,0.09,8.9,Medium,"Clicked on Category Ads",Good initial experience.,0.7,New Customer,0
+C1004,58,Male,Houston,Gold,78,6100.20,Home Goods,2023-10-18,0.06,18.7,High,"Engaged Frequently",Always happy with my orders. Quality items!,0.95,Very Loyal,0
+C1005,30,Other,Phoenix,Silver,6,180.50,Books,2022-03-10,0.02,1.5,Low,"No Clicks",Site was okay, but nothing stood out.,0.1,Passive Buyer,1
+C1006,41,Female,Philadelphia,Platinum,110,12500.80,Electronics,2023-10-22,0.10,25.3,High,"Clicked on Featured Products",The best online store I've ever used!,1.0,VIP Customer,0
+C1007,65,Male,San Antonio,Bronze,2,40.00,Groceries,2021-11-20,0.01,0.8,Low,"No Clicks",Difficult to find what I was looking for.,-0.6,One-Time Buyer,1
+C1008,27,Female,San Diego,Silver,25,850.30,Apparel,2023-10-26,0.08,10.1,Medium,"Clicked on Sale Ads",Found some great deals. Will be back.,0.8,Bargain Hunter,0
+C1009,53,Male,Dallas,Gold,60,4800.00,Home Goods,2023-10-19,0.05,14.0,High,"Clicked on New Arrivals",Reliable service and good quality.,0.9,Consistent Buyer,0
+C1010,38,Female,San Jose,Bronze,5,120.00,Beauty,2022-08-01,0.03,2.0,Low,"Ignored Ads",Products were just okay. Nothing special.,-0.3,Churn Risk,1
+C1011,44,Male,Austin,Silver,18,650.90,Electronics,2023-10-24,0.07,9.5,Medium,"Clicked on Recommended Items",Decent selection and prices.,0.7,Regular Shopper,0
+C1012,29,Other,Jacksonville,Bronze,1,25.00,Books,2021-09-05,0.01,0.5,Low,"No Clicks",Didn't really use the site much after first visit.,-0.1,Passive Buyer,1
+C1013,50,Female,Fort Worth,Platinum,95,9800.50,Apparel,2023-10-21,0.09,20.0,High,"Engaged Frequently",Absolutely love this store! Highly recommend!,0.98,VIP Customer,0
+C1014,33,Male,Columbus,Silver,8,300.00,Sports,2022-01-30,0.02,1.8,Low,"Ignored Ads",Product quality wasn't what I expected.,-0.5,Disappointed Buyer,1
+C1015,46,Female,Charlotte,Gold,70,5500.00,Home Goods,2023-10-17,0.07,16.2,High,"Clicked on Promos",Always find unique items here.,0.9,Loyal Customer,0
+C1016,25,Male,Indianapolis,Bronze,4,100.00,Groceries,2022-07-20,0.03,2.5,Low,"No Clicks",Service was slow.,-0.4,Churn Risk,1
+C1017,39,Other,Seattle,Silver,30,1100.75,Electronics,2023-10-23,0.08,11.8,Medium,"Clicked on Reviews",Good range of electronics.,0.8,Informed Buyer,0
+C1018,61,Female,Denver,Bronze,2,50.00,Books,2021-05-10,0.01,0.7,Low,"No Clicks",Didn't return after first purchase.,0.0,One-Time Buyer,1
+C1019,31,Male,Washington D.C.,Gold,45,3000.25,Apparel,2023-10-19,0.08,13.5,High,"Clicked on New Collections",Great styles and fit well.,0.9,Trend Follower,0
+C1020,55,Female,Boston,Silver,15,550.60,Beauty,2022-09-01,0.04,3.5,Low,"Ignored Ads",Average experience.,0.2,Passive Buyer,1
+C1021,28,Male,Nashville,Bronze,6,150.00,Sports,2023-10-24,0.07,7.0,Medium,"Clicked on Sale Ads",Got a good deal on some gear.,0.7,Bargain Hunter,0
+C1022,42,Female,Portland,Platinum,85,8000.90,Home Goods,2023-10-20,0.09,22.1,High,"Engaged Frequently",My go-to for everything home related.,1.0,Highly Engaged,0
+C1023,59,Male,Las Vegas,Bronze,3,70.00,Electronics,2022-04-18,0.02,1.0,Low,"No Clicks",Site was confusing.,-0.5,Disengaged,1
+C1024,36,Other,Detroit,Silver,20,700.50,Apparel,2023-10-25,0.06,8.0,Medium,"Clicked on Email Offers",Found some nice clothes.,0.6,Occasional Buyer,0
+C1025,51,Female,Memphis,Gold,50,4000.00,Books,2023-10-18,0.05,15.0,High,"Clicked on Author Features",Great selection of books!,0.9,Avid Reader,0
+C1026,34,Male,Louisville,Bronze,4,90.00,Beauty,2022-06-10,0.03,1.9,Low,"Ignored Ads",Didn't find the specific product I wanted.,-0.2,Churn Risk,1
+C1027,47,Female,Baltimore,Silver,10,350.20,Sports,2023-10-23,0.07,6.5,Medium,"Clicked on Gear Reviews",Good quality sports gear.,0.7,Active User,0
+C1028,63,Male,Milwaukee,Bronze,1,30.00,Groceries,2021-08-01,0.01,0.6,Low,"No Clicks",Didn't have a good first impression.,-0.7,One-Time Buyer,1
+C1029,26,Female,Albuquerque,Gold,40,2500.75,Electronics,2023-10-21,0.08,10.9,High,"Clicked on Deals",Managed to get some tech gadgets at good prices.,0.8,Tech Enthusiast,0
+C1030,40,Other,Tucson,Bronze,5,130.00,Home Goods,2022-02-15,0.02,2.3,Low,"No Clicks",Nothing on the site interested me long-term.,-0.3,Disengaged,1

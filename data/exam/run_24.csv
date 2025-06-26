@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,35,Female,New York,Gold,50,1200.50,Electronics,2023-10-26,0.07,15.2,85,High,"Excellent service and product quality. Very happy!",0.9,Loyal,0
+2,58,Male,London,Bronze,3,55.00,Books,2022-01-15,0.01,2.1,10,Low,"Website was confusing. Didn't find what I needed easily.",-0.6,Inactive,1
+3,22,Other,Sydney,Silver,15,210.75,Clothing,2023-09-10,0.05,8.5,60,Medium,"Good variety, fast delivery.",0.7,Occasional,0
+4,41,Female,Tokyo,Platinum,110,5500.00,Home Goods,2023-11-01,0.12,25.8,95,High,"Premium service, always my go-to.",1.0,Loyal,0
+5,67,Male,Berlin,Bronze,1,25.99,Health,2021-05-20,0.005,1.5,5,Low,"Never received follow-up after one purchase.",-0.8,One-time Buyer,1
+6,29,Female,Toronto,Gold,30,750.30,Beauty,2023-08-18,0.08,12.3,70,Medium,"Products are great, frequent sales are a plus.",0.8,Loyal,0
+7,50,Male,Paris,Silver,7,150.00,Sports,2022-07-01,0.02,4.5,20,Low,"Had an issue with an order, support was slow.",-0.4,Dissatisfied,1
+8,33,Other,Singapore,Bronze,2,45.50,Electronics,2023-07-14,0.03,6.1,30,Low,"Product was okay, nothing special.",0.3,Occasional,0
+9,45,Female,Chicago,Platinum,80,3200.00,Electronics,2023-10-30,0.10,20.1,90,High,"Consistently good experience. Reliable products.",0.95,Loyal,0
+10,61,Male,Moscow,Bronze,4,60.00,Books,2022-03-05,0.015,3.0,15,Low,"Found cheaper options elsewhere.",-0.5,Bargain Hunter,1
+11,27,Female,Mexico City,Silver,20,300.00,Clothing,2023-09-25,0.06,9.8,65,Medium,"Nice clothes, website is easy to navigate.",0.75,Occasional,0
+12,55,Male,Rio de Janeiro,Gold,40,900.00,Sports,2023-11-02,0.09,18.5,80,High,"Great selection for my hobby.",0.88,Loyal,0
+13,38,Female,Mumbai,Bronze,5,80.00,Beauty,2022-05-10,0.025,5.0,25,Low,"Didn't see much value in coming back.",-0.3,Inactive,1
+14,49,Other,Seoul,Silver,12,180.00,Home Goods,2023-08-01,0.04,7.2,55,Medium,"Products arrived as expected.",0.6,Occasional,0
+15,70,Male,Cairo,Bronze,0,0.00,N/A,2020-01-01,0.001,0.5,0,Low,"Never completed registration or purchase.",-1.0,Inactive,1
+16,25,Female,Rome,Gold,35,850.00,Electronics,2023-10-20,0.08,16.0,75,High,"Fast shipping and great product support.",0.92,Loyal,0
+17,43,Male,Buenos Aires,Silver,6,120.00,Books,2022-06-15,0.018,3.5,18,Low,"Customer service wasn't helpful with my query.",-0.7,Dissatisfied,1
+18,31,Female,Shanghai,Platinum,95,4500.00,Clothing,2023-11-03,0.11,22.0,98,High,"Love the exclusive items and benefits.",1.0,Loyal,0
+19,53,Male,Lagos,Bronze,2,30.00,Health,2022-02-28,0.01,2.0,12,Low,"Didn't find what I needed after initial browse.",-0.4,Inactive,1
+20,28,Other,Istanbul,Silver,18,250.00,Sports,2023-09-05,0.055,9.0,62,Medium,"Decent selection, good prices.",0.78,Occasional,0
+21,65,Female,Jakarta,Bronze,1,15.00,Beauty,2021-08-10,0.003,1.0,8,Low,"Poor website design, hard to find anything.",-0.65,One-time Buyer,1
+22,39,Male,Bangkok,Gold,45,1000.00,Home Goods,2023-10-15,0.095,19.0,88,High,"Quality items that last.",0.93,Loyal,0
+23,47,Female,Madrid,Silver,9,160.00,Electronics,2022-04-01,0.022,4.0,22,Low,"Received a damaged product, return process was a headache.",-0.85,Dissatisfied,1
+24,34,Male,Houston,Bronze,3,50.00,Books,2023-07-20,0.035,5.5,35,Low,"Just bought one item I needed.",0.4,Occasional,0
+25,59,Other,Manila,Bronze,0,0.00,N/A,2020-03-15,0.002,0.8,3,Low,"Signed up but never engaged further.",-0.9,Inactive,1
+26,26,Female,Phoenix,Gold,32,780.00,Clothing,2023-10-28,0.075,14.5,72,Medium,"Love the styles and fit.",0.82,Loyal,0
+27,51,Male,Philadelphia,Silver,8,140.00,Health,2022-03-20,0.017,3.2,16,Low,"Product wasn't as effective as advertised.",-0.55,Dissatisfied,1
+28,40,Female,Milan,Platinum,105,5000.00,Beauty,2023-11-04,0.13,28.0,99,High,"Exceptional service and product selection.",1.0,Loyal,0
+29,46,Male,Bogota,Bronze,4,70.00,Sports,2022-01-25,0.012,2.5,14,Low,"Found limited options in my sport.",-0.45,Inactive,1
+30,30,Female,Sydney,Silver,16,220.00,Home Goods,2023-09-18,0.065,10.5,68,Medium,"Happy with the quality of items.",0.72,Occasional,0

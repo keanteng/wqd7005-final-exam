@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+cust_001,45,Male,New York,Gold,55,1230.50,Electronics,2023-12-10,0.035,15.2,High,Frequent,"Excellent service and product quality. Highly recommend!",0.92,Loyal,0
+cust_002,28,Female,London,Silver,22,450.20,Clothing,2023-11-25,0.028,9.8,Medium,Occasional,"Happy with my purchases, good value.",0.78,Bargain Hunter,0
+cust_003,62,Male,Tokyo,Platinum,120,5500.75,Home Goods,2024-01-05,0.041,22.1,High,Frequent,"Consistently great products and support. A loyal customer for years.",0.98,Loyal,0
+cust_004,34,Female,Sydney,Bronze,5,85.00,Books,2023-08-15,0.012,4.5,Low,None,"Website was okay, didn't find exactly what I wanted.",0.45,Occasional Shopper,1
+cust_005,51,Male,Paris,Gold,78,3100.90,Electronics,2024-01-12,0.039,18.7,Medium,Frequent,"Fast shipping and great gadgets.",0.89,Impulsive Buyer,0
+cust_006,22,Female,Berlin,Silver,15,310.60,Clothing,2023-10-20,0.031,11.5,High,Occasional,"Love their fashion collection!",0.85,Loyal,0
+cust_007,49,Non-binary,Toronto,Bronze,3,45.50,Groceries,2023-05-01,0.005,2.1,Low,None,"Didn't really use the service much.",0.15,Occasional Shopper,1
+cust_008,39,Male,Mexico City,Platinum,95,4800.00,Electronics,2023-12-28,0.045,25.9,High,Frequent,"Premium products and excellent customer service.",0.95,Loyal,0
+cust_009,26,Female,Seoul,Silver,30,680.30,Clothing,2023-11-10,0.029,10.2,Medium,Occasional,"Found some great deals during sales.",0.75,Bargain Hunter,0
+cust_010,58,Male,Mumbai,Gold,65,2800.40,Home Goods,2024-01-01,0.038,16.5,Medium,Frequent,"Reliable and good quality items for my home.",0.88,Loyal,0
+cust_011,31,Female,Rio de Janeiro,Bronze,7,120.00,Books,2023-07-01,0.009,3.0,Low,None,"It was an okay experience, nothing special.",0.30,Occasional Shopper,1
+cust_012,43,Male,Moscow,Silver,40,950.70,Electronics,2023-12-01,0.033,13.0,Medium,Frequent,"Good variety of electronics.",0.80,Impulsive Buyer,0
+cust_013,67,Female,Rome,Platinum,150,6200.00,Clothing,2024-01-08,0.048,28.5,High,Frequent,"Always my go-to for high-end fashion.",0.99,Loyal,0
+cust_014,29,Male,Madrid,Bronze,4,60.00,Groceries,2023-04-20,0.007,1.8,Low,None,"Signed up but didn't use it much after the first time.",0.20,Occasional Shopper,1
+cust_015,55,Female,Beijing,Gold,88,3500.10,Home Goods,2023-12-15,0.037,17.9,Medium,Frequent,"Quality home goods, worth the price.",0.87,Loyal,0
+cust_016,37,Male,Jakarta,Silver,25,550.80,Electronics,2023-11-05,0.030,10.5,Medium,Occasional,"Found what I needed at a decent price.",0.70,Bargain Hunter,0
+cust_017,41,Female,Lagos,Bronze,2,30.00,Books,2023-03-10,0.003,1.5,Low,None,"Forget I even had an account here.",0.05,Occasional Shopper,1
+cust_018,53,Male,Cairo,Platinum,135,5800.50,Clothing,2024-01-14,0.046,27.0,High,Frequent,"Exceptional quality and customer service.",0.97,Loyal,0
+cust_019,24,Female,Bangkok,Silver,18,380.90,Home Goods,2023-10-01,0.027,9.0,Medium,Occasional,"Decent selection for decorating.",0.68,Occasional Shopper,0
+cust_020,60,Male,Lima,Bronze,6,90.00,Groceries,2023-06-18,0.008,2.5,Low,None,"Didn't find the selection very appealing.",0.25,Occasional Shopper,1
+cust_021,33,Female,Manila,Gold,60,1500.70,Electronics,2023-12-20,0.036,14.0,Medium,Frequent,"Reliable place for new gadgets.",0.90,Impulsive Buyer,0
+cust_022,47,Male,Istanbul,Silver,35,750.00,Clothing,2023-11-30,0.032,12.8,Medium,Occasional,"Good variety, especially during sales.",0.72,Bargain Hunter,0
+cust_023,21,Female,Karachi,Bronze,1,15.00,Books,2023-02-01,0.002,1.0,Low,None,"Just bought one thing and left.",0.01,Occasional Shopper,1
+cust_024,59,Male,Buenos Aires,Platinum,110,5200.30,Home Goods,2024-01-03,0.043,24.5,High,Frequent,"My preferred store for quality home items.",0.96,Loyal,0
+cust_025,36,Female,Kolkata,Gold,70,2950.60,Clothing,2023-12-05,0.037,15.8,Medium,Frequent,"Always find stylish clothes here.",0.91,Loyal,0
+cust_026,48,Male,Tehran,Bronze,8,130.00,Electronics,2023-09-10,0.010,3.5,Low,None,"Was looking for something specific, didn't find it.",0.35,Occasional Shopper,1
+cust_027,27,Female,Bogota,Silver,28,600.50,Books,2023-10-15,0.025,8.5,Medium,Occasional,"Found some good reads.",0.65,Occasional Shopper,0
+cust_028,65,Male,Santiago,Platinum,140,6500.00,Electronics,2024-01-10,0.049,29.0,High,Frequent,"Top-tier service and products.",1.00,Loyal,0
+cust_029,30,Female,Ho Chi Minh City,Bronze,5,75.00,Home Goods,2023-08-25,0.006,2.0,Low,None,"Didn't really engage with the site after the first visit.",0.18,Occasional Shopper,1
+cust_030,44,Male,Bangalore,Gold,80,3300.20,Groceries,2023-12-22,0.040,19.5,Medium,Frequent,"Convenient and good range of groceries.",0.93,Loyal,0

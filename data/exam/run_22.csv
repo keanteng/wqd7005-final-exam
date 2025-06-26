@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Male,London,Gold,85,2150.75,Electronics,2024-07-20,5.8,450,4,55,"Great products and fast delivery. Very happy with my purchases.",4,Loyal,0
+2,32,Female,New York,Silver,12,310.50,Clothing,2024-07-22,3.1,210,3,15,"Decent selection, but checkout was a bit slow.",3,Occasional Shopper,0
+3,60,Male,Tokyo,Platinum,150,4800.20,Home Goods,2024-07-18,7.5,600,5,88,"Excellent service and premium products. Worth every penny.",5,Loyal,0
+4,28,Female,Paris,Bronze,3,55.90,Beauty,2023-01-10,1.2,60,1,2,"Didn't find what I was looking for. Website is confusing.",2,Explorer,1
+5,51,Male,Sydney,Gold,60,1500.00,Sports,2024-07-19,6.2,380,4,40,"Good variety of items, website is easy to navigate.",4,Frequent Buyer,0
+6,22,Female,Berlin,Silver,8,180.75,Books,2023-03-15,2.5,150,2,8,"Purchased a few books, they arrived quickly.",3,Occasional Shopper,1
+7,39,Male,Toronto,Bronze,20,450.30,Groceries,2024-07-21,4.5,300,3,25,"Convenient for groceries, prices are competitive.",4,Bargain Hunter,0
+8,70,Female,Mumbai,Platinum,120,3500.00,Jewelry,2024-07-17,8.1,700,5,105,"Always a pleasure shopping here. High quality items.",5,Loyal,0
+9,25,Male,Sao Paulo,Bronze,1,25.00,Electronics,2022-11-01,0.8,45,1,1,"Only bought one item, haven't returned.",1,Disengaged,1
+10,48,Female,Moscow,Gold,70,1800.50,Clothing,2024-07-23,5.5,420,4,50,"Love their fashion collections!",4,Frequent Buyer,0
+11,35,Male,Cairo,Silver,15,380.00,Home Goods,2023-02-20,2.8,180,2,10,"Found some useful items, but customer support was slow.",2,Explorer,1
+12,55,Female,Beijing,Platinum,180,5500.00,Electronics,2024-07-16,9.0,800,5,120,"The best online store for gadgets!",5,Loyal,0
+13,29,Male,Mexico City,Bronze,5,90.20,Sports,2023-04-05,1.5,70,1,5,"Okay experience, nothing special.",2,Occasional Shopper,1
+14,41,Female,Seoul,Gold,95,2400.60,Beauty,2024-07-24,6.0,480,4,60,"Excellent range of beauty products.",4,Frequent Buyer,0
+15,65,Male,Jakarta,Bronze,2,35.00,Books,2022-10-15,0.5,30,0,0,"Didn't find much of interest after the first purchase.",1,Disengaged,1
+16,30,Female,Lagos,Silver,10,250.80,Clothing,2024-07-25,3.8,250,3,20,"Happy with my recent orders.",3,Occasional Shopper,0
+17,50,Male,Istanbul,Platinum,130,4000.00,Home Goods,2024-07-15,8.5,750,5,95,"Top quality items and reliable delivery.",5,Loyal,0
+18,27,Female,Buenos Aires,Bronze,4,65.50,Groceries,2023-05-10,1.0,50,1,3,"Tried it once, prefer my usual store.",2,Bargain Hunter,1
+19,43,Male,Bangkok,Gold,80,2000.00,Electronics,2024-07-26,5.2,400,4,52,"Satisfied with my purchases.",4,Frequent Buyer,0
+20,34,Female,Riyadh,Silver,18,420.90,Beauty,2023-06-01,2.0,120,2,7,"Products were okay, but website navigation could improve.",2,Explorer,1
+21,58,Male,Chicago,Platinum,160,5000.00,Sports,2024-07-14,8.8,780,5,110,"Excellent selection for sports gear.",5,Loyal,0
+22,23,Female,Los Angeles,Bronze,0,0.00,N/A,2022-09-01,0.2,10,0,0,"Signed up but never bought anything.",1,Disengaged,1
+23,47,Male,Singapore,Gold,75,1900.40,Clothing,2024-07-27,5.7,430,4,58,"Fashionable clothes, good quality.",4,Frequent Buyer,0
+24,37,Female,Hong Kong,Silver,25,600.75,Home Goods,2023-07-11,3.5,220,3,18,"Found some good deals on home items.",3,Bargain Hunter,1
+25,62,Male,Dubai,Platinum,190,6000.00,Jewelry,2024-07-13,9.5,850,5,130,"Exceptional service and beautiful jewelry.",5,Loyal,0
+26,26,Female,Amsterdam,Bronze,3,40.00,Books,2022-12-01,0.7,35,0,0,"Not enough variety in my genre.",1,Disengaged,1
+27,49,Male,Rome,Gold,88,2200.00,Electronics,2024-07-28,5.9,460,4,65,"Reliable place for electronics.",4,Frequent Buyer,0
+28,31,Female,Madrid,Silver,14,350.60,Sports,2023-08-05,2.9,170,2,9,"Website was a bit clunky on mobile.",2,Explorer,1
+29,53,Male,Vienna,Platinum,170,5200.00,Home Goods,2024-07-12,9.2,810,5,115,"My go-to store for home essentials.",5,Loyal,0
+30,24,Female,Zurich,Bronze,1,15.00,Beauty,2023-09-20,0.9,40,1,2,"Only made one small purchase.",2,Occasional Shopper,1

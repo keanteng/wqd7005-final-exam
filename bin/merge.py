@@ -23,7 +23,13 @@ def merge_notebooks(notebook_files, output_file):
 
 # Usage
 merge_notebooks([
-    'task_1_1.ipynb', 
-    'task_1_2.ipynb'
+    'notebooks/task-1.ipynb', 
+    'notebooks/task-1-2.ipynb',
+    'notebooks/task-1-3.ipynb',
+    'notebooks/task-1-4.ipynb',
+    'notebooks/task-2.ipynb',
+    'notebooks/task-3.ipynb',
+    'notebooks/task-4.ipynb',
+    'notebooks/task-5.ipynb',
     ],
     'WQD7005_Project_Khor_Kean_Teng.ipynb')

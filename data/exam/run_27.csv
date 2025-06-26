@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Male,New York,Gold,55,3250.75,Electronics,2024-02-15,0.25,35.2,85,10,"Excellent service and products, always reliable.",0.95,Loyal,0
+2,30,Female,Los Angeles,Silver,12,580.30,Clothing,2024-01-20,0.18,22.5,60,5,"Good selection, found a few nice items.",0.7,Regular Buyer,0
+3,58,Other,Chicago,Bronze,2,75.00,Books,2023-05-10,0.02,3.1,10,1,"Didn't find much of interest.",0.1,Inactive,1
+4,22,Female,Houston,Platinum,88,6100.50,Beauty,2024-02-28,0.35,48.9,95,15,"Absolutely love everything! My go-to store.",0.99,Engaged,0
+5,67,Male,Phoenix,Gold,30,1800.90,Home Goods,2024-01-05,0.20,28.7,70,8,"Quality is good, delivery was prompt.",0.8,Loyal,0
+6,39,Female,Miami,Bronze,1,35.50,Sports,2022-11-01,0.01,1.5,5,0,"Just bought one thing, didn't come back.",-0.2,One-Time Buyer,1
+7,51,Male,New York,Silver,15,720.10,Groceries,2024-02-10,0.15,18.0,55,3,"Convenient for everyday items.",0.6,Regular Buyer,0
+8,28,Other,Los Angeles,Gold,40,2500.00,Electronics,2024-03-01,0.28,40.1,90,12,"Great prices on electronics, happy customer.",0.9,Loyal,0
+9,70,Female,Chicago,Bronze,3,120.00,Books,2023-08-18,0.03,4.5,15,2,"Okay experience, nothing special.",0.3,At Risk,1
+10,34,Male,Houston,Platinum,70,5000.80,Clothing,2024-02-25,0.32,45.5,88,18,"Always find stylish clothes, excellent quality.",0.97,Loyal,0
+11,48,Female,Phoenix,Silver,10,450.70,Home Goods,2023-12-10,0.12,15.6,50,4,"Decent range of products.",0.5,Regular Buyer,0
+12,60,Other,Miami,Bronze,0,0.00,Beauty,2022-05-20,0.00,0.0,0,0,"",0.0,Inactive,1
+13,25,Male,New York,Bronze,5,210.00,Sports,2023-07-01,0.08,8.9,30,6,"Product was fine, site is a bit slow.",0.4,Price Sensitive,1
+14,42,Female,Los Angeles,Gold,65,4000.30,Groceries,2024-02-20,0.27,38.0,80,11,"Reliable delivery for groceries, good service.",0.92,Loyal,0
+15,55,Male,Chicago,Silver,8,350.60,Electronics,2023-09-05,0.10,12.3,45,2,"Found a good deal on an item.",0.65,Regular Buyer,0
+16,31,Other,Houston,Bronze,0,0.00,Clothing,2022-08-15,0.00,0.0,0,0,"Never completed a purchase.",0.0,Inactive,1
+17,72,Female,Phoenix,Bronze,1,25.00,Books,2023-03-01,0.01,2.0,8,1,"Bought a single book, didn't return.",0.2,One-Time Buyer,1
+18,29,Male,Miami,Platinum,95,7000.00,Beauty,2024-03-02,0.38,50.0,98,20,"Fantastic quality, makes shopping easy!",0.99,Engaged,0
+19,47,Female,New York,Silver,20,950.40,Home Goods,2024-01-15,0.19,25.8,65,7,"Generally satisfied with purchases.",0.75,Regular Buyer,0
+20,36,Male,Los Angeles,Bronze,2,80.00,Sports,2023-06-20,0.05,6.5,20,3,"Items were okay, site could be better.",0.35,At Risk,1
+21,53,Other,Chicago,Gold,50,3000.20,Groceries,2024-02-18,0.23,30.5,78,9,"Dependable for regular shopping needs.",0.88,Loyal,0
+22,65,Female,Houston,Bronze,0,0.00,Electronics,2022-10-10,0.00,0.0,0,0,"Signed up but never bought anything.",0.0,New Customer,1
+23,27,Male,Phoenix,Silver,18,850.90,Clothing,2024-01-28,0.17,20.1,58,6,"Liked some items, will shop again.",0.68,Regular Buyer,0
+24,41,Female,Miami,Bronze,1,40.00,Beauty,2023-04-05,0.02,3.8,12,1,"Only bought one product, it was fine.",0.4,One-Time Buyer,1
+25,59,Male,New York,Platinum,80,5500.60,Sports,2024-02-22,0.30,42.0,92,16,"High quality sports gear, love the range.",0.96,Engaged,0
+26,33,Other,Los Angeles,Bronze,3,100.00,Home Goods,2023-07-15,0.04,5.2,18,2,"Had a problem with an order, not resolved.",-0.3,At Risk,1
+27,50,Female,Chicago,Gold,45,2800.50,Groceries,2024-02-08,0.24,33.1,82,10,"Consistent quality and service for groceries.",0.89,Loyal,0
+28,68,Male,Houston,Bronze,0,0.00,Books,2022-07-01,0.00,0.0,0,0,"",0.0,Inactive,1
+29,24,Female,Phoenix,Silver,14,650.80,Electronics,2024-01-30,0.16,19.5,56,5,"Found some good deals.",0.62,Regular Buyer,0
+30,46,Other,Miami,Bronze,1,50.00,Clothing,2023-05-18,0.03,4.0,15,1,"Item was okay, didn't buy again.",0.3,One-Time Buyer,1

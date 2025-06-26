@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+C0001,45,Female,New York, USA,Gold,35,1225.50,Electronics,2023-10-20,0.035,25.3,High,8,"Great service and fast delivery!",0.85,Loyal,0
+C0002,32,Male,London, UK,Silver,12,300.75,Clothing,2024-01-15,0.021,15.1,Medium,4,"Happy with my purchase.",0.60,Engaged,0
+C0003,58,Other,Tokyo, Japan,Platinum,55,3500.00,Home Goods,2024-02-01,0.052,40.5,High,15,"Excellent quality products!",0.95,Loyal,0
+C0004,21,Female,Sydney, Australia,Bronze,3,55.20,Beauty,2023-11-10,0.015,8.2,Low,1,"Product was okay.",0.20,New Customer,0
+C0005,67,Male,Berlin, Germany,Gold,48,1800.90,Books,2024-01-28,0.040,30.9,Medium,10,"Always find what I'm looking for.",0.75,Loyal,0
+C0006,29,Female,Paris, France,Silver,8,150.00,Sports,2023-12-05,0.018,12.0,Medium,3,"Decent products for the price.",0.45,Bargain Hunter,0
+C0007,41,Male,Mumbai, India,Bronze,20,450.50,Groceries,2024-02-18,0.025,18.5,Medium,5,"Convenient online shopping.",0.55,Engaged,0
+C0008,53,Other,Rio de Janeiro, Brazil,Platinum,62,4100.20,Furniture,2024-01-10,0.060,45.1,High,18,"Premium service and beautiful items.",1.00,Loyal,0
+C0009,25,Female,New York, USA,Silver,6,100.00,Electronics,2023-11-25,0.019,10.3,Low,2,"Didn't quite meet expectations.",0.10,Impulsive Buyer,0
+C0010,38,Male,London, UK,Gold,28,980.60,Clothing,2024-02-05,0.038,22.7,High,7,"Good range of options.",0.70,Engaged,0
+C0011,70,Female,Tokyo, Japan,Silver,15,600.00,Books,2024-01-20,0.022,16.8,Medium,6,"Enjoyable reading selection.",0.65,Loyal,0
+C0012,31,Other,Sydney, Australia,Bronze,4,75.00,Sports,2023-12-15,0.016,9.5,Low,1,"It was okay.",0.30,New Customer,0
+C0013,49,Male,Berlin, Germany,Gold,38,1500.00,Home Goods,2024-02-10,0.045,33.0,High,12,"Satisfied with the quality.",0.80,Loyal,0
+C0014,27,Female,Paris, France,Platinum,5,120.00,Beauty,2024-01-01,0.020,11.5,Medium,3,"Products are nice.",0.50,Engaged,0
+C0015,61,Male,Mumbai, India,Silver,22,550.75,Groceries,2024-02-25,0.028,20.0,Medium,7,"Regularly shop here, reliable.",0.70,Loyal,0
+C0016,36,Female,New York, USA,Bronze,2,40.00,Clothing,2022-08-01,0.008,5.0,Low,0,"Had a bad experience.",-0.50,At Risk,1
+C0017,50,Male,London, UK,Silver,10,250.00,Electronics,2022-05-15,0.012,8.0,Low,1,"Website is difficult to use.",-0.30,Inactive,1
+C0018,23,Other,Tokyo, Japan,Bronze,1,25.00,Beauty,2021-11-20,0.005,3.0,Low,0,"Never really used it after first purchase.",-0.10,New Customer,1
+C0019,65,Female,Sydney, Australia,Gold,30,1000.00,Books,2022-07-01,0.018,14.0,Medium,5,"Used to love it, but lost interest.",0.00,Inactive,1
+C0020,48,Male,Berlin, Germany,Silver,8,200.00,Home Goods,2022-09-10,0.010,7.5,Low,2,"Products weren't great quality.",-0.40,At Risk,1
+C0021,29,Female,Paris, France,Bronze,3,60.00,Sports,2021-12-01,0.007,4.5,Low,0,"Found better alternatives elsewhere.",-0.25,At Risk,1
+C0022,55,Male,Mumbai, India,Platinum,40,2800.00,Groceries,2022-06-20,0.030,20.0,Medium,10,"Service declined over time.",-0.15,Inactive,1
+C0023,33,Other,Rio de Janeiro, Brazil,Bronze,5,90.00,Furniture,2022-04-01,0.009,6.0,Low,1,"Had issues with delivery.",-0.45,At Risk,1
+C0024,42,Female,New York, USA,Gold,25,800.00,Clothing,2022-10-05,0.025,15.0,Medium,6,"Not impressed lately.",-0.05,Inactive,1
+C0025,26,Male,London, UK,Silver,7,140.00,Beauty,2022-03-18,0.011,5.5,Low,0,"Product didn't work as expected.",-0.55,At Risk,1
+C0026,68,Female,Tokyo, Japan,Platinum,50,3200.00,Electronics,2022-08-25,0.040,28.0,High,15,"Used to be excellent, not anymore.",-0.20,Inactive,1
+C0027,39,Male,Sydney, Australia,Bronze,4,80.00,Books,2021-09-01,0.006,3.5,Low,0,"Found another site with better prices.",-0.35,Bargain Hunter,1
+C0028,51,Other,Berlin, Germany,Gold,18,700.00,Sports,2022-11-11,0.015,9.0,Medium,4,"The site is slow.",-0.10,At Risk,1
+C0029,30,Female,Paris, France,Silver,6,110.00,Groceries,2022-02-14,0.013,6.5,Low,1,"Customer service was unhelpful.",-0.60,At Risk,1
+C0030,47,Male,Mumbai, India,Bronze,10,200.00,Furniture,2021-10-30,0.007,4.0,Low,0,"Product broke quickly.",-0.70,At Risk,1

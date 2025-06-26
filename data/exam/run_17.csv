@@ -1,4 +1,3 @@
-```csv
 CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
 1,45,Female,New York,Gold,25,1550.75,Electronics,2023-10-20,0.08,15.3,High,"Clicked Ads",Great product selection and fast shipping!,0.9,Loyal,0
 2,32,Male,Los Angeles,Silver,10,340.50,Clothing,2023-09-15,0.05,8.1,Medium,"No Ad Clicks",Items were okay, delivery took a bit long.,0.2,Bargain Hunter,0
@@ -30,4 +29,3 @@ CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,Favorit
 28,39,Male,Milwaukee,Silver,14,610.80,Books,2023-09-10,0.06,9.8,Medium,"Clicked Ads",Good selection of niche books.,0.7,Engaged,0
 29,60,Female,Albuquerque,Platinum,40,3200.90,Beauty,2023-10-24,0.10,19.5,High,"Clicked Ads",My go-to for high-quality beauty products.,1.0,Loyal,0
 30,30,Male,Tucson,Bronze,2,90.00,Sports,2023-01-25,0.02,2.3,Low,"No Ad Clicks",Didn't find what I was looking for easily.,-0.5,Dissatisfied,1
-```

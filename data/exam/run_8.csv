@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1001,35,Female,New York,Gold,25,550.75,Books,2023-10-26,0.12,350,High,High Clicks,"Great experience, always find what I need!",0.9,Loyal,0
+1002,48,Male,Los Angeles,Silver,12,210.50,Electronics,2023-11-15,0.08,180,Medium,Medium Clicks,"Decent prices, shipping was quick.",0.6,Frequent Shopper,0
+1003,28,Other,Chicago,Bronze,3,55.20,Clothing,2023-12-01,0.05,90,Low,Low Clicks,"Okay selection, nothing special.",0.3,Infrequent Buyer,1
+1004,52,Female,Houston,Platinum,40,1500.00,Home Goods,2023-10-10,0.18,500,High,High Clicks,"Excellent quality products and service!",0.95,Loyal,0
+1005,22,Male,Phoenix,Bronze,1,15.99,Toys,2023-05-18,0.03,60,Low,Low Clicks,"Ordered once, item was fine.",0.2,Disengaged,1
+1006,60,Female,Philadelphia,Gold,18,450.00,Beauty,2023-11-20,0.15,400,Medium,Medium Clicks,"Love their beauty range, good deals.",0.8,Happy Customer,0
+1007,31,Male,San Antonio,Silver,7,120.80,Sports,2023-06-01,0.07,150,Low,Low Clicks,"Site was a bit slow.",-0.1,Unsatisfied Customer,1
+1008,40,Other,San Diego,Platinum,30,1200.50,Electronics,2023-10-30,0.20,550,High,High Clicks,"Premium products and great support.",1.0,Engaged,0
+1009,25,Female,Dallas,Bronze,2,30.10,Groceries,2023-07-10,0.04,70,Low,Low Clicks,"Didn't find everything I needed.",-0.2,Price Sensitive,1
+1010,55,Male,San Jose,Gold,22,600.90,Clothing,2023-11-05,0.16,380,Medium,Medium Clicks,"Good variety of clothes.",0.7,Frequent Shopper,0
+1011,38,Female,London,Silver,5,90.00,Books,2023-08-22,0.06,100,Low,Low Clicks,"Book arrived damaged.",-0.5,Unsatisfied Customer,1
+1012,45,Male,Paris,Platinum,35,1800.00,Electronics,2023-10-15,0.19,520,High,High Clicks,"Top notch electronics, worth the price.",0.98,Loyal,0
+1013,29,Other,Tokyo,Bronze,0,0.00,N/A,2023-01-01,0.02,30,Low,Low Clicks,"Never made a purchase.",0.0,Disengaged,1
+1014,50,Female,Sydney,Gold,28,700.30,Home Goods,2023-11-28,0.14,390,Medium,Medium Clicks,"Found some unique items for my home.",0.85,Happy Customer,0
+1015,33,Male,Berlin,Silver,6,110.25,Beauty,2023-07-15,0.05,120,Low,Low Clicks,"Product didn't work as expected.",-0.3,Unsatisfied Customer,1
+1016,42,Female,New York,Gold,20,500.00,Clothing,2023-11-10,0.13,360,High,High Clicks,"Reliable store, frequent sales.",0.75,Frequent Shopper,0
+1017,27,Male,Los Angeles,Bronze,1,25.50,Sports,2023-09-01,0.04,80,Low,Low Clicks,"Just browsing, bought one item.",0.1,Infrequent Buyer,1
+1018,58,Other,Chicago,Platinum,38,1600.00,Books,2023-10-20,0.17,480,High,High Clicks,"Excellent book collection and service.",0.92,Engaged,0
+1019,36,Female,Houston,Silver,4,85.00,Toys,2023-08-10,0.06,110,Low,Low Clicks,"Toy broke easily.",-0.4,Unsatisfied Customer,1
+1020,49,Male,Phoenix,Gold,23,620.00,Electronics,2023-11-25,0.15,370,Medium,Medium Clicks,"Happy with my electronics purchase.",0.8,Happy Customer,0
+1021,24,Female,Philadelphia,Bronze,0,0.00,N/A,2023-03-05,0.02,40,Low,Low Clicks,"Signed up but never bought anything.",0.0,Disengaged,1
+1022,65,Male,San Antonio,Platinum,45,2000.00,Home Goods,2023-10-01,0.20,580,High,High Clicks,"Best place for home goods, loyal customer.",1.0,Loyal,0
+1023,39,Other,San Diego,Silver,5,105.50,Groceries,2023-07-20,0.05,95,Low,Low Clicks,"Groceries were expensive here.",-0.3,Price Sensitive,1
+1024,30,Female,Dallas,Gold,15,350.00,Beauty,2023-11-18,0.12,300,Medium,Medium Clicks,"Good offers on beauty products.",0.7,Frequent Shopper,0
+1025,53,Male,San Jose,Bronze,2,40.00,Sports,2023-06-15,0.03,85,Low,Low Clicks,"Limited sports gear.",-0.2,Infrequent Buyer,1
+1026,41,Female,London,Platinum,33,1400.00,Clothing,2023-10-28,0.17,450,High,High Clicks,"High-quality fashion, love it.",0.9,Engaged,0
+1027,26,Male,Paris,Bronze,0,0.00,N/A,2023-04-12,0.01,25,Low,Low Clicks,"Didn't find anything I liked.",-0.1,Disengaged,1
+1028,47,Other,Tokyo,Gold,27,650.00,Books,2023-11-08,0.14,320,Medium,Medium Clicks,"Good selection of international books.",0.8,Happy Customer,0
+1029,34,Female,Sydney,Silver,3,60.00,Home Goods,2023-09-18,0.05,100,Low,Low Clicks,"Item was smaller than expected.",-0.3,Unsatisfied Customer,1
+1030,59,Male,Berlin,Platinum,42,1900.00,Electronics,2023-10-05,0.19,560,High,High Clicks,"Excellent service and product range.",0.99,Loyal,0

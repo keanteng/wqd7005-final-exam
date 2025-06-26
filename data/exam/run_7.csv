@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1001,45,Male,New York,Gold,35,1250.75,Electronics,2024-04-20,0.15,15.3,High,Many,"Great products and fast shipping! Very happy.",5,Loyal,0
+1002,28,Female,Los Angeles,Silver,12,345.90,Clothing,2024-05-10,0.08,8.1,Medium,Few,"Nice selection, website is easy to navigate.",4,Active Buyer,0
+1003,62,Male,Chicago,Bronze,3,75.20,Books,2023-01-15,0.02,3.5,Low,None,"Didn't find exactly what I needed. Interface could be better.",2,Casual Buyer,1
+1004,34,Female,Houston,Platinum,60,5800.50,Beauty,2024-05-14,0.25,25.7,High,Many,"Excellent customer service and exclusive benefits. Love being a Platinum member!",5,Loyal,0
+1005,51,Male,Phoenix,Silver,8,210.40,Home Goods,2022-11-01,0.01,2.1,Low,None,"Product was okay, but shipping took too long.",3,Former Buyer,1
+1006,22,Female,Miami,Bronze,1,25.00,Clothing,2023-04-05,0.05,5.8,Medium,Few,"Just bought one item, it was fine.",3,One-Time Buyer,1
+1007,40,Male,Seattle,Gold,28,980.10,Groceries,2024-05-12,0.18,18.5,Medium,Many,"Convenient and good quality produce.",4,Active Buyer,0
+1008,58,Female,Denver,Silver,15,450.60,Sports,2023-07-22,0.03,4.9,Low,Few,"Used to buy regularly, but prices increased.",2,Dormant,1
+1009,30,Male,New York,Bronze,5,120.80,Electronics,2024-04-01,0.09,10.2,High,Many,"Found a good deal on a gadget.",4,Bargain Hunter,0
+1010,49,Female,Los Angeles,Gold,42,3200.00,Clothing,2024-05-05,0.20,22.1,High,Many,"Fantastic variety and quality. My go-to for fashion.",5,Loyal,0
+1011,37,Male,Chicago,Silver,7,180.50,Books,2023-09-10,0.06,7.5,Medium,Few,"Decent range of titles.",4,Casual Buyer,0
+1012,65,Female,Houston,Bronze,2,50.00,Home Goods,2022-06-20,0.00,1.0,Low,None,"Couldn't figure out how to use the site.",1,Lost Customer,1
+1013,25,Male,Phoenix,Bronze,10,280.30,Beauty,2024-03-18,0.12,11.8,High,Many,"Good products, but wish there were more sales.",4,Bargain Hunter,0
+1014,53,Male,Miami,Gold,30,1100.00,Electronics,2024-05-11,0.17,16.9,Medium,Many,"Reliable and good service.",4,Loyal,0
+1015,31,Female,Seattle,Silver,18,650.70,Groceries,2024-05-13,0.14,14.2,Medium,Few,"Convenient for weekly shopping.",4,Active Buyer,0
+1016,44,Male,Denver,Platinum,70,7500.00,Sports,2024-05-15,0.30,30.5,High,Many,"Premier selection and service. Worth the investment.",5,Loyal,0
+1017,29,Female,New York,Bronze,4,90.00,Clothing,2023-02-28,0.03,3.8,Low,Few,"Item wasn't what I expected.",2,Former Buyer,1
+1018,55,Male,Los Angeles,Silver,6,150.00,Books,2022-09-01,0.01,2.5,Low,None,"Lost interest after a few orders.",1,Dormant,1
+1019,38,Female,Chicago,Gold,25,850.00,Beauty,2024-04-25,0.19,20.0,High,Many,"Enjoy the variety and quality.",4,Active Buyer,0
+1020,60,Male,Houston,Bronze,2,40.00,Home Goods,2023-03-10,0.00,1.5,Low,None,"Website too complicated.",1,Lost Customer,1
+1021,41,Female,Phoenix,Silver,16,580.00,Electronics,2024-05-08,0.11,13.0,Medium,Few,"Good products, reliable delivery.",4,Active Buyer,0
+1022,27,Male,Miami,Bronze,3,60.00,Groceries,2023-06-18,0.04,5.1,Low,Few,"Switched to a local store.",2,Former Buyer,1
+1023,50,Female,Seattle,Gold,33,1500.00,Sports,2024-05-01,0.22,24.5,High,Many,"Great gear for my activities.",5,Loyal,0
+1024,35,Male,Denver,Bronze,5,110.00,Clothing,2023-08-05,0.05,6.2,Low,Few,"Found cheaper options elsewhere.",2,Bargain Hunter,1
+1025,48,Female,New York,Platinum,55,6000.00,Beauty,2024-05-14,0.28,28.8,High,Many,"Always find what I need, excellent service.",5,Loyal,0
+1026,63,Male,Los Angeles,Silver,9,220.00,Books,2022-10-10,0.02,3.0,Low,None,"Stopped buying online, prefer physical stores.",1,Lost Customer,1
+1027,26,Female,Chicago,Bronze,1,30.00,Home Goods,2023-05-20,0.04,4.0,Low,None,"Didn't return after first purchase.",2,One-Time Buyer,1
+1028,57,Male,Houston,Gold,20,700.00,Electronics,2024-04-30,0.16,17.0,Medium,Many,"Satisfied with my purchases.",4,Active Buyer,0
+1029,32,Female,Phoenix,Silver,14,400.00,Groceries,2024-05-09,0.10,12.5,Medium,Few,"Reliable service for groceries.",4,Active Buyer,0
+1030,46,Male,Miami,Bronze,7,160.00,Sports,2023-07-01,0.03,4.5,Low,Few,"Didn't find the specific item I was looking for.",2,Former Buyer,1

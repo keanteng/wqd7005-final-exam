@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Male,New York,Gold,85,7250.50,Electronics,2023-10-20,0.25,15.2,High,Frequent,"Excellent products and service, always find what I need.",0.9,Loyal Customer,0
+2,28,Female,Los Angeles,Silver,12,580.75,Apparel,2023-11-15,0.18,8.5,Medium,Some,"Good selection, website is easy to navigate.",0.7,Engaged Shopper,0
+3,60,Other,Chicago,Bronze,3,150.00,Home Goods,2022-05-10,0.05,2.1,Low,None,"Didn't find much I liked.",-0.4,Inactive User,1
+4,35,Female,Houston,Platinum,150,15000.00,Beauty,2023-12-01,0.40,25.8,High,Frequent,"Absolutely love the premium service and exclusive offers!",1.0,VIP Customer,0
+5,52,Male,Phoenix,Gold,60,5800.20,Books,2023-09-01,0.22,12.0,Medium,Frequent,"Reliable store with a great variety of books.",0.8,Frequent Buyer,0
+6,22,Female,Philadelphia,Bronze,2,80.00,Sports,2022-08-22,0.03,1.5,Low,None,"Items were okay, but nothing special.",-0.2,Bargain Hunter,1
+7,40,Other,San Antonio,Silver,25,1200.50,Electronics,2023-10-05,0.15,7.3,Medium,Some,"Prices are competitive, delivery was quick.",0.6,Value Seeker,0
+8,30,Male,San Diego,Bronze,1,50.00,Apparel,2023-01-18,0.08,3.0,Low,None,"First purchase was simple enough.",0.3,New Customer,1
+9,58,Female,Dallas,Gold,75,6500.00,Home Goods,2023-11-28,0.28,18.0,High,Frequent,"Consistently satisfied with my orders.",0.95,Loyal Customer,0
+10,48,Male,San Jose,Platinum,180,18500.00,Electronics,2023-12-10,0.45,30.1,High,Frequent,"Best tech deals and amazing support!",1.0,VIP Customer,0
+11,25,Other,Austin,Bronze,4,200.00,Beauty,2022-07-12,0.04,1.8,Low,None,"Experience was forgettable.",-0.3,Inactive User,1
+12,33,Female,Jacksonville,Silver,18,900.00,Books,2023-09-18,0.17,6.5,Medium,Some,"Decent selection, fair prices.",0.5,Casual Buyer,0
+13,65,Male,Fort Worth,Bronze,0,0.00,N/A,2021-11-01,0.01,0.5,Low,None,"Never actually bought anything after signing up.",-0.1,Zombie Account,1
+14,38,Female,Columbus,Gold,55,4800.00,Sports,2023-10-30,0.20,10.5,Medium,Frequent,"Good quality gear for various sports.",0.75,Active Hobbyist,0
+15,50,Other,Charlotte,Silver,30,1500.00,Electronics,2022-04-01,0.06,3.2,Low,None,"Had an issue with my last order and it wasn't resolved well.",-0.6,Dissatisfied Customer,1
+16,29,Male,San Francisco,Platinum,120,12000.00,Apparel,2023-12-05,0.38,22.0,High,Frequent,"Always find unique and stylish clothes here.",0.98,Fashion Enthusiast,0
+17,42,Female,Indianapolis,Bronze,5,250.00,Home Goods,2022-09-15,0.05,2.5,Low,None,"Products were average, nothing special to keep me coming back.",-0.2,Explorer,1
+18,31,Male,Seattle,Gold,95,8500.00,Beauty,2023-11-08,0.30,16.5,High,Frequent,"My go-to for all beauty needs. Excellent.",0.93,Brand Advocate,0
+19,62,Female,Denver,Silver,10,450.00,Books,2023-08-25,0.12,5.0,Medium,Some,"Found a few interesting titles.",0.4,Infrequent Reader,0
+20,26,Other,Washington D.C.,Bronze,3,120.00,Sports,2023-03-20,0.07,2.8,Low,None,"Website was slow, checkout was clunky.",-0.5,Frustrated User,1
+21,47,Male,Boston,Platinum,200,22000.00,Electronics,2023-12-15,0.50,35.0,High,Frequent,"Top-tier service and products, worth every penny.",1.0,Ultimate Fan,0
+22,39,Female,El Paso,Silver,15,700.00,Apparel,2022-06-01,0.09,4.0,Low,Some,"Bought a few things, but haven't returned.",-0.1,One-Time Buyer,1
+23,55,Male,Detroit,Gold,70,6000.00,Home Goods,2023-11-10,0.26,14.0,High,Frequent,"Quality items that last.",0.88,Quality Focused,0
+24,23,Other,Nashville,Bronze,1,40.00,Beauty,2022-10-05,0.02,1.0,Low,None,"Signed up but never got engaged with the site.",-0.05,Unengaged Lead,1
+25,36,Female,Portland,Silver,28,1400.00,Sports,2023-10-12,0.19,9.0,Medium,Some,"Happy with my purchases so far.",0.65,Active Customer,0
+26,51,Male,Memphis,Bronze,4,180.00,Electronics,2022-11-20,0.04,2.0,Low,None,"Item arrived broken, customer service was unhelpful.",-0.8,Highly Dissatisfied,1
+27,44,Female,Oklahoma City,Gold,80,7000.00,Apparel,2023-12-08,0.27,15.8,High,Frequent,"My favorite place for clothes!",0.92,Loyal Shopper,0
+28,34,Male,Las Vegas,Silver,20,1000.00,Books,2023-09-22,0.16,7.8,Medium,Some,"Found a few interesting books, delivery was okay.",0.55,Book Lover,0
+29,59,Other,Louisville,Bronze,0,0.00,N/A,2021-08-01,0.00,0.2,Low,None,"Account seems inactive, not sure why I kept it.",-0.1,Dormant Account,1
+30,27,Female,Baltimore,Platinum,100,10500.00,Beauty,2023-12-18,0.42,28.5,High,Frequent,"Fantastic service and top quality products!",0.99,Beauty Guru,0

@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Female,New York,Gold,35,1750.5,"Electronics",2023-11-15,0.12,12.5,High,Medium,"Excellent service and products!",5,Loyal,0
+2,32,Male,Los Angeles,Silver,22,880.2,"Clothing",2023-12-01,0.09,8.2,Medium,Low,"Good range of products.",4,Engaged,0
+3,58,Non-binary,Chicago,Platinum,50,2500.75,"Home Goods",2023-11-20,0.15,15.8,High,High,"Always a great experience shopping here.",5,Loyal,0
+4,28,Prefer not to say,Houston,Bronze,10,350.0,"Books",2023-10-28,0.07,6.5,Medium,Low,"Satisfied with my purchase.",4,Occasional Shopper,0
+5,51,Female,Phoenix,Gold,42,2100.9,"Beauty",2023-11-10,0.18,18.1,High,Medium,"Love everything I bought!",5,Loyal,0
+6,38,Male,Philadelphia,Silver,28,1120.4,"Sports",2023-11-25,0.11,10.3,Medium,Low,"Decent store, no complaints.",4,Engaged,0
+7,65,Female,San Antonio,Platinum,55,2750.88,"Outdoors",2023-12-03,0.19,19.5,High,High,"Highly recommend this store.",5,Loyal,0
+8,25,Male,San Diego,Bronze,8,280.0,"Toys",2023-10-15,0.06,5.1,Medium,Low,"Products were as expected.",4,New Customer,0
+9,49,Non-binary,Dallas,Gold,39,1950.6,"Jewelry",2023-11-18,0.14,14.9,High,Medium,"Excellent service and products!",5,Loyal,0
+10,41,Female,San Jose,Silver,31,1240.3,"Electronics",2023-11-29,0.1,9.8,Medium,Low,"Good range of products.",4,Engaged,0
+11,62,Male,Austin,Platinum,48,2400.8,"Clothing",2023-12-04,0.17,17.2,High,High,"Always a great experience shopping here.",5,Loyal,0
+12,30,Female,Jacksonville,Bronze,12,420.0,"Home Goods",2023-10-20,0.08,7.3,Medium,Low,"Satisfied with my purchase.",4,Occasional Shopper,0
+13,55,Prefer not to say,Fort Worth,Gold,40,2000.0,"Books",2023-11-12,0.16,16.0,High,Medium,"Love everything I bought!",5,Loyal,0
+14,36,Non-binary,Columbus,Silver,26,1040.5,"Beauty",2023-11-27,0.09,8.8,Medium,Low,"Decent store, no complaints.",4,Engaged,0
+15,47,Male,Charlotte,Platinum,53,2650.95,"Sports",2023-12-02,0.2,20.0,High,High,"Highly recommend this store.",5,Loyal,0
+16,29,Female,San Francisco,Bronze,3,60.0,"Outdoors",2023-04-10,0.03,2.1,Low,Low,"Very disappointed.",1,Disengaged,1
+17,53,Male,Indianapolis,Silver,8,240.0,"Toys",2023-07-22,0.05,4.5,Medium,Low,"Could be better.",2,Occasional Shopper,1
+18,35,Non-binary,Seattle,Bronze,1,25.0,"Jewelry",2022-11-01,0.02,1.5,Low,Low,"Won't be shopping here again.",1,Window Shopper,1
+19,68,Prefer not to say,Denver,Gold,10,300.0,"Electronics",2023-03-15,0.06,5.2,Medium,Medium,"Average experience.",3,Bargain Hunter,1
+20,44,Female,Washington D.C.,Bronze,5,100.0,"Clothing",2023-05-05,0.04,3.8,Low,Low,"Poor quality/service.",1,Disengaged,1
+21,31,Male,Boston,Silver,7,210.0,"Home Goods",2023-06-18,0.05,4.1,Medium,Low,"Not satisfied.",2,Occasional Shopper,1
+22,59,Female,Nashville,Bronze,2,50.0,"Books",2022-08-20,0.03,2.9,Low,Low,"Had a bad experience.",1,Window Shopper,1
+23,27,Non-binary,Portland,Gold,9,270.0,"Beauty",2023-02-28,0.07,6.0,Medium,Medium,"It was okay.",3,Bargain Hunter,1
+24,50,Male,Las Vegas,Bronze,4,80.0,"Sports",2023-04-01,0.04,3.5,Low,Low,"Very disappointed.",1,Disengaged,1
+25,40,Female,Atlanta,Silver,6,180.0,"Outdoors",2023-07-01,0.05,4.8,Medium,Low,"Could be better.",2,Occasional Shopper,1
+26,63,Prefer not to say,Miami,Bronze,1,30.0,"Toys",2022-10-10,0.02,1.8,Low,Low,"Won't be shopping here again.",1,Window Shopper,1
+27,34,Non-binary,Orlando,Gold,8,240.0,"Jewelry",2023-01-19,0.06,5.5,Medium,Medium,"Nothing special.",3,Bargain Hunter,1
+28,46,Male,Minneapolis,Bronze,3,70.0,"Electronics",2023-05-22,0.03,2.5,Low,Low,"Poor quality/service.",1,Disengaged,1
+29,57,Female,St. Louis,Silver,5,150.0,"Clothing",2023-06-30,0.05,4.3,Medium,Low,"Not satisfied.",2,Occasional Shopper,1
+30,39,Male,Kansas City,Bronze,2,40.0,"Home Goods",2022-09-15,0.02,2.2,Low,Low,"Had a bad experience.",1,Window Shopper,1

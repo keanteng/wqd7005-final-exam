@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Female,New York,Gold,58,1523.50,Clothing,2024-03-10,0.035,15.2,High,Frequent,"Great quality and fast shipping!",0.9,Loyal,0
+2,32,Male,Los Angeles,Silver,12,255.00,Electronics,2023-11-20,0.012,5.8,Medium,Occasional,"Products are okay, but site is slow.",0.4,Browser,0
+3,58,Female,Chicago,Platinum,120,4800.75,Home Goods,2024-03-28,0.048,25.5,High,Frequent,"Excellent customer service and selection.",1.0,Loyal,0
+4,28,Male,Houston,Bronze,3,55.99,Books,2022-07-01,0.008,2.1,Low,None,"Didn't find what I was looking for.",-0.6,Infrequent Buyer,1
+5,51,Female,Phoenix,Silver,35,780.20,Beauty,2024-02-15,0.022,10.1,Medium,Occasional,"Good deals during sales.",0.7,Bargain Hunter,0
+6,39,Male,Philadelphia,Gold,75,2100.00,Electronics,2024-03-05,0.040,20.3,High,Frequent,"Reliable products and service.",0.95,Loyal,0
+7,65,Female,San Antonio,Bronze,8,150.00,Clothing,2023-05-10,0.005,3.5,Low,None,"Found something I liked, but haven't been back.",0.2,Infrequent Buyer,1
+8,22,Male,San Diego,Silver,18,320.50,Clothing,2024-03-20,0.028,12.7,Medium,Occasional,"Site is easy to navigate.",0.6,Browser,0
+9,48,Female,Dallas,Platinum,95,3500.00,Jewelry,2024-03-25,0.055,30.1,High,Frequent,"Love the unique items available.",1.0,Loyal,0
+10,36,Male,San Jose,Bronze,5,90.00,Sports,2022-09-18,0.007,1.9,Low,None,"Prices were a bit high.",-0.4,Bargain Hunter,1
+11,55,Female,Austin,Gold,62,1800.00,Home Goods,2024-03-18,0.038,18.5,High,Frequent,"Always find interesting things for my home.",0.9,Loyal,0
+12,29,Male,Jacksonville,Silver,25,450.00,Electronics,2024-01-05,0.018,7.2,Medium,Occasional,"Delivery was faster than expected.",0.8,Impulsive Buyer,0
+13,41,Female,Indianapolis,Bronze,2,30.00,Books,2022-11-12,0.004,1.5,Low,None,"Didn't purchase anything after the first time.",-0.3,Browser,1
+14,60,Male,San Francisco,Platinum,110,4200.00,Electronics,2024-03-29,0.050,28.0,High,Frequent,"Top-notch products and service.",1.0,Loyal,0
+15,34,Female,Columbus,Silver,40,950.00,Clothing,2024-03-15,0.025,11.5,Medium,Occasional,"Satisfied with my purchases.",0.7,Impulsive Buyer,0
+16,53,Male,Fort Worth,Bronze,7,120.00,Sports,2023-03-01,0.006,2.8,Low,None,"Had an issue with the product.",-0.7,Infrequent Buyer,1
+17,27,Female,Charlotte,Gold,50,1300.00,Beauty,2024-03-22,0.032,14.0,High,Frequent,"Love the selection of cosmetics.",0.9,Loyal,0
+18,49,Male,Detroit,Silver,15,280.00,Home Goods,2023-08-01,0.010,4.5,Medium,Occasional,"Website navigation is clunky.",-0.2,Browser,1
+19,31,Female,El Paso,Bronze,1,20.00,Books,2022-05-20,0.003,1.2,Low,None,"One time purchase, nothing special.",-0.1,Infrequent Buyer,1
+20,68,Male,Seattle,Platinum,150,5500.00,Electronics,2024-03-30,0.060,35.0,High,Frequent,"Been a customer for years, always happy.",1.0,Loyal,0
+21,40,Female,Denver,Gold,85,2500.00,Clothing,2024-03-19,0.042,22.1,High,Frequent,"High quality clothes, worth the price.",0.95,Loyal,0
+22,25,Male,Washington,Silver,20,380.00,Sports,2024-02-28,0.020,8.0,Medium,Occasional,"Good place for sports gear.",0.7,Impulsive Buyer,0
+23,57,Female,Boston,Bronze,4,70.00,Beauty,2023-01-15,0.005,1.8,Low,None,"Didn't find much I needed.",-0.3,Browser,1
+24,33,Male,Nashville,Platinum,60,1700.00,Electronics,2024-03-27,0.045,23.5,High,Frequent,"Excellent deals and fast shipping.",0.98,Loyal,0
+25,47,Female,Portland,Silver,10,190.00,Home Goods,2023-06-05,0.009,3.0,Low,None,"Found a few items, but not a regular shopper.",0.1,Infrequent Buyer,1
+26,23,Male,Las Vegas,Bronze,6,100.00,Clothing,2023-04-10,0.008,2.5,Low,None,"Expected more variety.",-0.2,Bargain Hunter,1
+27,62,Female,Oklahoma City,Gold,70,2000.00,Jewelry,2024-03-21,0.039,19.0,High,Frequent,"Beautiful pieces, very happy.",0.9,Loyal,0
+28,38,Male,Tucson,Silver,30,600.00,Sports,2024-03-01,0.023,9.5,Medium,Occasional,"Found what I needed.",0.6,Impulsive Buyer,0
+29,50,Female,Atlanta,Bronze,3,45.00,Beauty,2022-08-10,0.004,1.0,Low,None,"Had a bad experience with an order.",-0.8,Infrequent Buyer,1
+30,30,Male,Milwaukee,Platinum,80,2800.00,Electronics,2024-03-26,0.052,26.0,High,Frequent,"Consistently good products and service.",0.99,Loyal,0

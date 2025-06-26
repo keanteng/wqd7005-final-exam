@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Female,New York,Gold,78,4550.25,Electronics,2023-10-20,0.075,15.2,5,Frequent,"Excellent service and products! Highly recommend.",0.9,Loyal,0
+2,29,Male,Los Angeles,Silver,15,650.75,Clothing,2023-09-10,0.032,8.1,3,Occasional,"Good overall experience, found what I needed.",0.6,Explorer,0
+3,58,Female,Chicago,Bronze,5,120.50,Home Goods,2022-01-15,0.008,2.5,1,None,"Had some issues with customer support, not very helpful.",-0.4,Inactive,1
+4,34,Male,Houston,Platinum,110,15500.00,Electronics,2023-10-25,0.091,22.5,5,Frequent,"Amazing selection and fast shipping. My go-to store.",1.0,Loyal,0
+5,51,Female,Phoenix,Silver,32,1800.60,Beauty,2023-08-01,0.045,10.3,4,Frequent,"Products are good quality, but shipping was a bit slow.",0.5,Active,0
+6,67,Male,Philadelphia,Bronze,8,210.90,Books,2021-05-03,0.005,1.8,1,None,"Didn't find what I was looking for, website is confusing.",-0.7,Inactive,1
+7,41,Female,San Antonio,Gold,55,3800.90,Groceries,2023-10-26,0.068,14.0,4,Occasional,"Reliable service and fresh products.",0.8,Loyal,0
+8,22,Male,San Diego,Bronze,3,75.00,Toys,2022-03-20,0.015,4.0,2,Rare,"Okay experience, nothing special.",0.1,Churn Risk,1
+9,36,Female,Dallas,Silver,28,1100.20,Clothing,2023-09-18,0.038,9.5,3,Frequent,"Found some great deals during the sale.",0.7,Bargain Hunter,0
+10,49,Male,San Jose,Platinum,95,12800.50,Electronics,2023-10-24,0.085,20.1,5,Frequent,"Premium service and cutting-edge products.",1.0,Loyal,0
+11,62,Female,Austin,Bronze,12,350.70,Home Goods,2022-02-10,0.009,2.1,1,None,"Problems with returning an item, frustrating process.",-0.6,Inactive,1
+12,27,Male,Jacksonville,Silver,18,780.40,Books,2023-08-15,0.030,7.8,2,Occasional,"Decent selection, but pricing could be better.",0.3,Explorer,0
+13,39,Female,Indianapolis,Gold,65,4100.80,Beauty,2023-10-21,0.071,16.5,5,Frequent,"Love their beauty products, always high quality.",0.9,Loyal,0
+14,55,Male,Columbus,Bronze,6,150.00,Toys,2021-11-05,0.006,1.5,1,None,"Site was hard to navigate, didn't buy anything.",-0.8,Inactive,1
+15,31,Female,Fort Worth,Silver,20,920.30,Groceries,2023-09-05,0.040,8.9,3,Occasional,"Convenient for grocery shopping online.",0.6,Active,0
+16,47,Male,Charlotte,Platinum,105,14500.00,Clothing,2023-10-23,0.090,21.0,5,Frequent,"Fashion items are top-notch, worth the price.",1.0,Loyal,0
+17,68,Female,Detroit,Bronze,4,90.00,Electronics,2022-04-18,0.007,2.0,1,None,"Product description was inaccurate, very disappointed.",-0.9,Inactive,1
+18,25,Male,El Paso,Silver,10,350.00,Home Goods,2023-07-30,0.025,6.5,2,Rare,"Average store, nothing stood out.",0.2,Churn Risk,1
+19,43,Female,Seattle,Gold,72,4900.10,Books,2023-10-19,0.080,18.0,5,Frequent,"Fantastic collection of books and quick delivery.",0.9,Loyal,0
+20,59,Male,Denver,Bronze,7,180.50,Beauty,2021-12-01,0.004,1.2,1,None,"Never received my order, poor communication.",-1.0,Inactive,1
+21,33,Female,Washington,Silver,22,1050.60,Toys,2023-08-25,0.035,7.0,3,Occasional,"Good for kids' toys, reasonable prices.",0.5,Active,0
+22,53,Male,Boston,Platinum,120,18000.00,Groceries,2023-10-27,0.095,24.0,5,Frequent,"Exceptional service for grocery delivery.",1.0,Loyal,0
+23,66,Female,Nashville,Bronze,9,230.00,Clothing,2022-05-10,0.010,2.8,1,None,"The sizing was completely off, wasted my money.",-0.8,Inactive,1
+24,28,Male,Baltimore,Silver,14,580.00,Electronics,2023-09-22,0.031,8.5,3,Occasional,"Found a decent gadget, website loaded slowly sometimes.",0.4,Explorer,0
+25,48,Female,Portland,Gold,85,5500.70,Home Goods,2023-10-15,0.082,19.5,5,Frequent,"Love their unique home decor items.",0.9,Loyal,0
+26,60,Male,Oklahoma City,Bronze,5,110.00,Books,2021-10-08,0.005,1.0,1,None,"Didn't like the selection, won't visit again.",-0.7,Inactive,1
+27,30,Female,Las Vegas,Silver,25,1250.40,Beauty,2023-08-05,0.042,9.0,4,Frequent,"Satisfied with the products and delivery speed.",0.7,Active,0
+28,57,Male,Milwaukee,Platinum,115,16500.00,Toys,2023-10-22,0.093,23.0,5,Frequent,"High-end toys, perfect gifts.",1.0,Loyal,0
+29,64,Female,Albuquerque,Bronze,11,300.00,Groceries,2022-06-12,0.008,2.2,1,None,"Groceries were damaged on arrival, poor packaging.",-0.9,Inactive,1
+30,37,Male,Tucson,Silver,16,700.80,Clothing,2023-09-28,0.036,8.2,3,Occasional,"Found a good deal on a jacket.",0.6,Bargain Hunter,0

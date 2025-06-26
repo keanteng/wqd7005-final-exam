@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+CUST001,45,Male,New York,Gold,35,1550.75,Electronics,2023-10-15,0.12,18.5,High,"Frequent Clicks","Excellent service and products, always reliable.",5,"Loyal",0
+CUST002,29,Female,Los Angeles,Silver,12,410.20,Clothing,2024-01-20,0.08,10.2,Medium,"Occasional Clicks","Good value for money, happy with my recent purchase.",4,"Active Buyer",0
+CUST003,62,Non-binary,Chicago,Bronze,2,55.00,Books,2023-04-10,0.01,3.1,Low,"No Clicks","Product was okay, but delivery was slow.",2,"Inactive",1
+CUST004,38,Female,Houston,Platinum,58,3100.50,Home Goods,2024-02-28,0.15,25.0,High,"Frequent Clicks","Top-notch quality and service, worth every penny.",5,"Loyal",0
+CUST005,22,Male,Phoenix,Bronze,1,25.99,Outdoors,2023-01-05,0.03,2.5,Low,"Occasional Clicks","Didn't find what I was looking for.",1,"Bargain Hunter",1
+CUST006,51,Female,Philadelphia,Gold,28,1200.00,Groceries,2024-03-01,0.10,15.8,Medium,"Frequent Clicks","Convenient service, especially for recurring orders.",4,"Loyal",0
+CUST007,34,Male,San Antonio,Silver,8,280.50,Electronics,2023-11-11,0.07,9.5,Medium,"Occasional Clicks","Decent selection, website is easy to navigate.",3,"Active Buyer",0
+CUST008,49,Female,San Diego,Bronze,3,70.00,Clothing,2023-03-20,0.02,4.0,Low,"No Clicks","Item didn't fit well, return process was cumbersome.",2,"Inactive",1
+CUST009,27,Male,Dallas,Silver,18,650.75,Books,2024-02-15,0.09,11.7,Medium,"Occasional Clicks","Found some great reads at good prices.",4,"Active Buyer",0
+CUST010,55,Female,San Jose,Platinum,45,2500.00,Electronics,2024-03-05,0.14,22.1,High,"Frequent Clicks","Reliable products and fast shipping, my go-to store.",5,"Loyal",0
+CUST011,31,Non-binary,Austin,Bronze,0,0.00,,2022-12-01,0.00,0.5,Low,"No Clicks","No recent activity or review.",3,"Inactive",1
+CUST012,41,Male,Jacksonville,Gold,20,950.00,Home Goods,2024-01-10,0.11,17.0,High,"Frequent Clicks","Happy with my recent home improvement purchases.",4,"Loyal",0
+CUST013,25,Female,Indianapolis,Bronze,1,30.00,Clothing,2023-02-18,0.04,3.5,Low,"Occasional Clicks","Item quality was lower than expected.",2,"Bargain Hunter",1
+CUST014,59,Male,Columbus,Silver,15,550.00,Outdoors,2023-12-01,0.07,8.8,Medium,"Occasional Clicks","Found some good gear for my trips.",4,"Active Buyer",0
+CUST015,36,Female,Fort Worth,Bronze,4,90.00,Groceries,2023-05-22,0.03,4.5,Low,"No Clicks","Prices increased too much, found alternatives.",1,"Dissatisfied",1
+CUST016,48,Male,Charlotte,Platinum,52,2800.00,Electronics,2024-02-20,0.16,26.5,High,"Frequent Clicks","Consistently excellent products and support.",5,"Loyal",0
+CUST017,33,Female,Seattle,Silver,10,380.00,Books,2024-01-05,0.08,11.0,Medium,"Occasional Clicks","Good selection, timely delivery.",4,"Active Buyer",0
+CUST018,53,Non-binary,Denver,Bronze,2,40.00,Home Goods,2023-06-15,0.01,2.9,Low,"No Clicks","Website was confusing to navigate.",2,"Inactive",1
+CUST019,20,Male,El Paso,Bronze,0,0.00,,2023-01-01,0.00,0.2,Low,"No Clicks","No recent activity or review.",3,"Inactive",1
+CUST020,65,Female,Detroit,Gold,30,1400.00,Clothing,2024-03-10,0.11,16.3,High,"Frequent Clicks","Love the quality and style of their clothing.",5,"Loyal",0
+CUST021,42,Male,Washington D.C.,Silver,7,250.00,Outdoors,2023-09-01,0.06,7.5,Medium,"Occasional Clicks","Product was as described, no issues.",3,"Active Buyer",0
+CUST022,26,Female,Boston,Bronze,1,20.00,Groceries,2023-07-12,0.02,3.0,Low,"No Clicks","Didn't find the specific items I needed.",1,"Bargain Hunter",1
+CUST023,57,Male,Nashville,Platinum,48,2650.00,Home Goods,2024-02-01,0.15,24.0,High,"Frequent Clicks","Exceptional range of products for home.",5,"Loyal",0
+CUST024,39,Female,Memphis,Silver,14,500.00,Electronics,2024-01-25,0.09,12.5,Medium,"Occasional Clicks","Satisfied with the performance of the device.",4,"Active Buyer",0
+CUST025,30,Male,Portland,Bronze,3,60.00,Books,2023-08-05,0.03,4.8,Low,"No Clicks","Found better prices elsewhere.",1,"Bargain Hunter",1
+CUST026,50,Non-binary,Oklahoma City,Gold,25,1100.00,Clothing,2024-03-08,0.10,14.9,High,"Frequent Clicks","Consistent quality and speedy delivery.",4,"Loyal",0
+CUST027,23,Female,Las Vegas,Bronze,0,0.00,,2023-01-20,0.00,0.1,Low,"No Clicks","No recent activity or review.",3,"Inactive",1
+CUST028,44,Male,Louisville,Silver,9,320.00,Outdoors,2023-10-30,0.07,8.0,Medium,"Occasional Clicks","Decent quality for the price.",3,"Active Buyer",0
+CUST029,61,Female,Baltimore,Bronze,2,45.00,Groceries,2023-04-01,0.01,2.0,Low,"No Clicks","Customer service was unhelpful.",1,"Dissatisfied",1
+CUST030,35,Male,Milwaukee,Platinum,60,3400.00,Electronics,2024-03-15,0.17,28.0,High,"Frequent Clicks","Simply the best online shopping experience.",5,"Loyal",0

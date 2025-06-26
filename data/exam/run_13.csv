@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+Cust_001,45,Female,New York,Gold,55,1520.75,Clothing,2023-10-20,0.08,15.2,85,Yes,Love the quality and fast shipping. Highly recommend!,0.95,Loyal,0
+Cust_002,29,Male,London,Silver,12,210.50,Electronics,2024-01-15,0.04,5.8,40,No,Okay selection, nothing special.,0.1,Occasional Shopper,0
+Cust_003,60,Other,Tokyo,Platinum,180,7500.00,Home Goods,2024-02-28,0.12,25.5,98,Yes,Exceptional service and products. Worth every penny!,0.99,Loyal,0
+Cust_004,22,Female,Paris,Bronze,3,45.99,Beauty,2023-05-10,0.02,3.1,15,No,Didn't find what I was looking for. Site was confusing.,-0.4,Disengaged,1
+Cust_005,51,Male,Sydney,Gold,78,2100.30,Sports,2024-03-05,0.09,18.7,70,Yes,Great gear and competitive prices.,0.85,Loyal,0
+Cust_006,35,Female,Berlin,Silver,25,450.70,Books,2024-02-01,0.07,10.3,55,Yes,Good range of books, delivery was prompt.,0.7,Occasional Shopper,0
+Cust_007,48,Male,Toronto,Bronze,0,0.00,N/A,2022-11-01,0.01,0.5,5,No,Never completed a purchase.,-0.1,Disengaged,1
+Cust_008,31,Female,Mumbai,Gold,40,1200.50,Clothing,2024-03-10,0.1,16.8,80,Yes,My go-to store for fashion.,0.9,Loyal,0
+Cust_009,65,Male,New York,Silver,8,150.20,Electronics,2023-07-20,0.03,4.2,20,No,Product was okay, but shipping took forever.,-0.2,Occasional Shopper,1
+Cust_010,27,Other,London,Bronze,1,25.00,Groceries,2023-04-01,0.01,1.0,10,No,Signed up but didn't see much value.,-0.3,New Customer,1
+Cust_011,40,Female,Tokyo,Gold,65,1800.90,Beauty,2024-03-12,0.09,14.5,75,Yes,High-quality beauty products I love.,0.88,Loyal,0
+Cust_012,55,Male,Paris,Platinum,150,6800.00,Electronics,2024-03-11,0.11,22.1,95,Yes,Premium products and fantastic support.,0.98,Loyal,0
+Cust_013,33,Female,Sydney,Bronze,5,75.60,Home Goods,2023-09-01,0.02,2.8,18,No,Items were smaller than expected.,-0.15,Occasional Shopper,1
+Cust_014,49,Male,Berlin,Silver,30,550.20,Sports,2024-01-25,0.06,9.5,50,Yes,Solid range for my needs.,0.65,Occasional Shopper,0
+Cust_015,24,Other,Toronto,Bronze,0,0.00,N/A,2022-08-15,0.01,0.2,2,No,Never used the site after signing up.,-0.5,Disengaged,1
+Cust_016,38,Female,Mumbai,Gold,88,2500.10,Books,2024-03-15,0.1,17.0,82,Yes,Endless selection and great deals.,0.92,Loyal,0
+Cust_017,58,Male,New York,Silver,10,180.00,Groceries,2023-06-01,0.03,3.5,25,No,Prices weren't competitive for groceries.,-0.25,Bargain Hunter,1
+Cust_018,30,Female,London,Bronze,2,30.50,Clothing,2023-03-20,0.01,0.8,8,No,Poor fit on the item I ordered.,-0.6,Disengaged,1
+Cust_019,43,Male,Tokyo,Platinum,190,8000.00,Beauty,2024-03-16,0.13,28.0,99,Yes,Unparalleled luxury and service.,0.99,Loyal,0
+Cust_020,26,Other,Paris,Silver,15,300.00,Electronics,2024-02-10,0.05,7.1,45,Yes,Found some good deals on gadgets.,0.55,Occasional Shopper,0
+Cust_021,53,Female,Sydney,Gold,70,2000.00,Home Goods,2024-03-14,0.09,16.0,72,Yes,Reliable source for quality home items.,0.87,Loyal,0
+Cust_022,37,Male,Berlin,Bronze,4,60.00,Sports,2023-10-01,0.02,2.5,12,No,Site glitches prevented me from ordering more.,-0.35,Disengaged,1
+Cust_023,41,Female,Toronto,Silver,28,500.00,Books,2024-01-10,0.07,11.2,58,Yes,Enjoy browsing the book selection.,0.75,Occasional Shopper,0
+Cust_024,34,Male,Mumbai,Bronze,0,0.00,N/A,2023-01-01,0.01,0.1,1,No,Never engaged with the platform.,-0.45,Disengaged,1
+Cust_025,62,Other,New York,Gold,95,2800.50,Clothing,2024-03-18,0.11,19.5,88,Yes,Consistently happy with my purchases.,0.94,Loyal,0
+Cust_026,20,Female,London,Bronze,1,15.00,Beauty,2023-02-10,0.01,0.6,6,No,Wasn't what I expected.,-0.55,New Customer,1
+Cust_027,47,Male,Tokyo,Silver,35,650.00,Groceries,2024-02-20,0.08,12.8,65,Yes,Convenient for certain grocery items.,0.7,Occasional Shopper,0
+Cust_028,59,Female,Paris,Platinum,170,7200.00,Electronics,2024-03-17,0.12,26.0,97,Yes,The best place for high-end electronics.,0.99,Loyal,0
+Cust_029,36,Male,Sydney,Bronze,3,50.00,Sports,2023-08-01,0.02,1.5,10,No,Found better deals elsewhere.,-0.3,Bargain Hunter,1
+Cust_030,23,Other,Berlin,Bronze,0,0.00,N/A,2022-09-01,0.005,0.05,0,No,Account seems inactive.,-0.1,Disengaged,1

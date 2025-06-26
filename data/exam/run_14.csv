@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+C001,45,Female,New York,Gold,35,1550.75,Electronics,2023-10-20,0.15,12.5,75,TRUE,"Great service and products, always my go-to!",0.9,Loyal,0
+C002,32,Male,Los Angeles,Silver,18,450.30,Clothing,2023-09-15,0.08,6.2,40,FALSE,"Items were okay, nothing special.",0.5,Explorer,0
+C003,58,Female,Chicago,Platinum,62,3800.50,Home Goods,2023-11-01,0.22,18.8,90,TRUE,"Exceptional quality and support!",0.95,Loyal,0
+C004,25,Male,Houston,Bronze,5,85.60,Books,2023-08-20,0.04,3.1,20,FALSE,"Product was fine, slow shipping.",0.4,Bargain Hunter,1
+C005,67,Female,Phoenix,Gold,48,2100.90,Groceries,2023-10-28,0.18,14.1,85,TRUE,"Dependable and convenient.",0.85,Loyal,0
+C006,39,Male,Philadelphia,Silver,12,300.00,Electronics,2023-07-10,0.06,5.5,35,TRUE,"The item broke quickly, disappointing.",0.2,Dissatisfied,1
+C007,50,Female,San Antonio,Bronze,8,150.75,Clothing,2023-06-05,0.03,2.9,15,FALSE,"Didn't find what I needed.",0.3,Price Sensitive,1
+C008,29,Male,San Diego,Gold,25,950.20,Sports,2023-10-25,0.12,9.8,60,TRUE,"Good range of products.",0.7,Frequent Buyer,0
+C009,41,Female,Dallas,Silver,15,400.80,Jewelry,2023-09-01,0.07,6.8,50,FALSE,"The photo was misleading.",0.35,Dissatisfied,1
+C010,55,Male,San Jose,Platinum,75,4500.00,Technology,2023-10-30,0.25,20.5,95,TRUE,"Simply the best store online!",1.0,Enthusiast,0
+C011,22,Female,Austin,Bronze,3,45.99,Beauty,2023-05-18,0.02,1.5,10,FALSE,"Never came back after first order.",0.1,New Customer (Lost),1
+C012,36,Male,Jacksonville,Silver,20,600.50,Automotive,2023-11-02,0.09,7.0,45,TRUE,"Reliable parts, good prices.",0.75,Regular,0
+C013,49,Female,Indianapolis,Gold,40,1800.30,Furniture,2023-10-22,0.16,15.0,80,TRUE,"Beautiful items, worth the price.",0.9,Loyal,0
+C014,63,Male,San Francisco,Platinum,55,3200.10,Wine,2023-10-29,0.20,17.5,88,FALSE,"Excellent selection and speedy delivery.",0.92,Connoisseur,0
+C015,30,Female,Columbus,Bronze,7,120.00,Pet Supplies,2023-04-10,0.03,2.2,18,FALSE,"Service was okay but not great.",0.4,Occasional Buyer,1
+C016,47,Male,Fort Worth,Silver,10,250.70,Gardening,2023-07-25,0.05,4.0,30,FALSE,"The plant didn't survive.",0.25,Dissatisfied,1
+C017,27,Female,Charlotte,Gold,30,1200.60,Apparel,2023-10-27,0.14,11.0,70,TRUE,"Always find something I love!",0.88,Fashionista,0
+C018,52,Male,Detroit,Bronze,6,90.50,Tools,2023-03-01,0.02,1.8,12,FALSE,"Tool broke after one use.",0.15,Unsatisfied,1
+C019,34,Female,El Paso,Silver,14,380.90,Books,2023-08-08,0.06,5.8,38,TRUE,"Book arrived damaged.",0.3,Unhappy,1
+C020,60,Male,Seattle,Platinum,68,4100.70,Outdoor Gear,2023-11-03,0.23,19.5,93,TRUE,"High-quality gear for every adventure.",0.96,Adventurer,0
+C021,23,Male,Denver,Bronze,4,70.00,Video Games,2023-05-29,0.04,3.5,25,TRUE,"Site glitches were annoying.",0.3,Frustrated,1
+C022,43,Female,Washington D.C.,Gold,38,1650.40,Art Supplies,2023-10-18,0.17,13.0,78,FALSE,"Great place for supplies, delivery is fast.",0.89,Creative,0
+C023,57,Male,Boston,Silver,16,480.00,Coffee,2023-09-20,0.08,6.5,42,FALSE,"Coffee was fresh and aromatic.",0.78,Regular,0
+C024,31,Female,Nashville,Bronze,9,180.20,Music,2023-06-15,0.05,4.8,30,TRUE,"Limited selection in my genre.",0.4,Occasional Buyer,1
+C025,65,Male,El Paso,Platinum,50,2900.80,Electronics,2023-10-31,0.21,18.0,90,TRUE,"Always find the latest tech here.",0.94,Tech Enthusiast,0
+C026,28,Female,Portland,Silver,11,280.50,Fitness,2023-08-12,0.07,5.2,33,TRUE,"Found what I needed eventually.",0.6,Pragmatist,0
+C027,51,Male,Las Vegas,Bronze,5,60.00,Souvenirs,2023-02-20,0.01,1.2,8,FALSE,"Poor quality item received.",0.1,Dissatisfied,1
+C028,40,Female,Oklahoma City,Gold,33,1400.90,Home Decor,2023-10-26,0.13,10.5,72,FALSE,"Beautiful items for the home.",0.87,Home Improver,0
+C029,35,Male,Milwaukee,Silver,13,350.00,Pet Supplies,2023-07-01,0.05,4.5,31,TRUE,"My dog liked the toys.",0.65,Pet Owner,0
+C030,46,Female,Baltimore,Bronze,7,100.00,Crafts,2023-04-05,0.03,2.0,15,FALSE,"Hard to find specific items.",0.35,Hobbyist (Lost),1

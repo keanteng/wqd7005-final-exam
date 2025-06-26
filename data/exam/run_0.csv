@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Female,Denver,CO,Silver,12,753.6,Clothing,2023-10-20,0.065,15.2,Medium,Clicked,"Great experience, love this store!",0.91,Regular Buyer,0
+2,32,Male,Los Angeles,CA,Gold,28,2155.4,Electronics,2023-10-25,0.092,22.5,High,Sometimes,"Very happy with my purchases.",0.95,Loyal,0
+3,58,Other,Chicago,IL,Platinum,41,4510.1,Home Goods,2023-09-18,0.115,28.1,High,Clicked,"Excellent service and products.",0.98,Loyal,0
+4,28,Male,Houston,TX,Bronze,2,85.7,Books,2023-08-01,0.041,8.9,Low,Not Clicked,"Had some issues, not fully satisfied.",0.52,Window Shopper,1
+5,51,Female,Phoenix,AZ,Silver,18,1220.5,Beauty,2023-10-10,0.078,18.7,Medium,Clicked,"Will definitely buy again.",0.88,Engaged,0
+6,37,Male,Miami,FL,Gold,3,150.9,Sports,2023-05-15,0.025,5.1,Low,Not Clicked,"Okay, but nothing special.",0.4,Inactive,1
+7,63,Female,Seattle,WA,Platinum,35,3800.0,Groceries,2023-10-26,0.105,25.9,High,Clicked,"Reliable and user-friendly website.",0.93,Loyal,0
+8,22,Other,Austin,TX,Bronze,1,25.0,Toys,2022-01-20,0.011,1.5,Low,Not Clicked,"Didn't find what I was looking for.",0.15,One-Time Buyer,1
+9,49,Male,Boston,MA,Silver,9,610.3,Clothing,2023-09-05,0.058,14.1,Medium,Sometimes,"Very happy with my purchases.",0.85,Regular Buyer,0
+10,70,Female,New York,NY,Bronze,5,280.6,Electronics,2022-08-10,0.032,7.8,Low,Not Clicked,"Product was alright, but delivery was slow.",0.35,Inactive,1
+11,25,Male,Denver,CO,Gold,22,1850.7,Home Goods,2023-10-22,0.089,20.3,High,Clicked,"Excellent service and products.",0.97,Engaged,0
+12,41,Female,Los Angeles,CA,Bronze,4,190.2,Books,2023-03-01,0.018,3.5,Low,Not Clicked,"Customer service could be better.",0.28,Dissatisfied,1
+13,55,Other,Chicago,IL,Platinum,50,4950.8,Beauty,2023-10-27,0.120,29.5,High,Clicked,"Great experience, love this store!",0.99,Loyal,0
+14,30,Male,Houston,TX,Silver,7,450.1,Sports,2023-04-10,0.029,6.2,Medium,Sometimes,"Okay, but nothing special.",0.48,Inactive,1
+15,68,Female,Phoenix,AZ,Gold,38,3500.0,Groceries,2023-10-21,0.098,24.8,High,Clicked,"Will definitely buy again.",0.94,Regular Buyer,0
+16,29,Male,Miami,FL,Bronze,1,35.0,Toys,2021-12-01,0.008,0.8,Low,Not Clicked,"Didn't find what I was looking for.",0.05,One-Time Buyer,1
+17,47,Female,Seattle,WA,Silver,15,1050.4,Clothing,2023-09-30,0.070,16.8,Medium,Clicked,"Very happy with my purchases.",0.90,Engaged,0
+18,73,Other,Austin,TX,Bronze,3,120.5,Electronics,2022-05-20,0.015,2.9,Low,Not Clicked,"Had some issues, not fully satisfied.",0.38,Dissatisfied,1
+19,26,Male,Boston,MA,Platinum,25,2550.6,Home Goods,2023-10-15,0.108,26.1,High,Sometimes,"Reliable and user-friendly website.",0.96,Loyal,0
+20,53,Female,New York,NY,Silver,6,380.9,Books,2023-02-18,0.021,4.5,Low,Not Clicked,"Product was alright, but delivery was slow.",0.3,Inactive,1
+21,39,Male,Denver,CO,Gold,20,1700.0,Beauty,2023-10-01,0.085,19.5,High,Clicked,"Excellent service and products.",0.92,Regular Buyer,0
+22,60,Other,Los Angeles,CA,Bronze,2,75.8,Sports,2021-10-05,0.009,1.2,Low,Not Clicked,"Didn't find what I was looking for.",0.1,One-Time Buyer,1
+23,31,Female,Chicago,IL,Platinum,30,3100.2,Groceries,2023-10-24,0.118,27.3,High,Clicked,"Will definitely buy again.",0.97,Loyal,0
+24,44,Male,Houston,TX,Silver,8,520.7,Toys,2023-03-25,0.031,5.8,Medium,Sometimes,"Okay, but nothing special.",0.45,Inactive,1
+25,59,Female,Phoenix,AZ,Gold,17,1180.9,Clothing,2023-09-10,0.075,17.6,Medium,Clicked,"Very happy with my purchases.",0.89,Engaged,0
+26,23,Other,Miami,FL,Bronze,1,20.0,Electronics,2022-03-12,0.010,0.5,Low,Not Clicked,"Customer service could be better.",0.2,Dissatisfied,1
+27,50,Male,Seattle,WA,Platinum,45,4100.5,Home Goods,2023-10-27,0.125,30.0,High,Clicked,"Great experience, love this store!",1.0,Loyal,0
+28,71,Female,Austin,TX,Bronze,4,155.3,Books,2022-07-01,0.028,6.0,Low,Not Clicked,"Had some issues, not fully satisfied.",0.42,Inactive,1
+29,35,Male,Boston,MA,Silver,10,650.4,Beauty,2023-08-20,0.060,13.5,Medium,Sometimes,"Reliable and user-friendly website.",0.87,Regular Buyer,0
+30,66,Other,New York,NY,Gold,6,400.8,Sports,2022-09-01,0.035,7.1,Medium,Clicked,"Product was alright, but delivery was slow.",0.5,Inactive,1

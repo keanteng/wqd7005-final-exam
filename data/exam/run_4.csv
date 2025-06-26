@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,38,Male,New York,Gold,65,3250.50,Electronics,2023-11-20,0.18,25.5,9,45,"Excellent service and products! Always reliable.",5,Loyal,0
+2,25,Female,Los Angeles,Bronze,3,75.20,Clothing,2022-04-15,0.04,4.1,2,5,"Product was okay, but not great.",2,Bargain Hunter,1
+3,49,Female,Chicago,Silver,18,890.00,Books,2023-12-01,0.12,18.3,6,15,"Good selection and quick delivery.",4,Impulsive Buyer,0
+4,62,Male,Houston,Silver,7,280.75,Home Goods,2022-09-01,0.06,6.7,3,8,"Quality was disappointing for the price.",1,Disengaged,1
+5,31,Male,Miami,Platinum,110,5500.00,Groceries,2023-11-28,0.22,30.0,10,60,"Couldn't live without this service!",5,Loyal,0
+6,45,Female,Seattle,Bronze,1,25.00,Beauty,2023-01-10,0.02,2.5,1,1,"Never really found anything I liked.",1,Disengaged,1
+7,29,Female,Denver,Gold,40,2000.00,Clothing,2023-11-25,0.15,22.1,7,35,"Trendy items and great fit.",4,Loyal,0
+8,55,Male,Boston,Bronze,5,150.50,Electronics,2022-07-05,0.03,3.9,0,3,"Item stopped working quickly.",2,Disengaged,1
+9,22,Male,San Francisco,Silver,8,450.00,Electronics,2023-12-03,0.16,20.0,8,25,"Love the latest gadgets available here.",5,New,0
+10,58,Female,Dallas,Bronze,0,0.00,Home Goods,2022-02-01,0.01,1.2,0,0,"Haven't used the service in ages.",0,Disengaged,1
+11,41,Female,Phoenix,Gold,75,3750.00,Beauty,2023-11-29,0.20,28.0,9,50,"Fantastic products, worth every penny.",5,Loyal,0
+12,35,Male,Philadelphia,Bronze,4,100.00,Books,2022-10-20,0.05,5.5,2,6,"Selection was limited compared to others.",2,Bargain Hunter,1
+13,27,Female,San Diego,Silver,12,600.00,Clothing,2023-11-30,0.14,19.5,7,18,"Fast shipping and good variety.",4,Impulsive Buyer,0
+14,53,Male,San Antonio,Bronze,2,60.00,Groceries,2022-05-18,0.03,3.1,1,2,"Prices increased too much.",1,Disengaged,1
+15,33,Male,Detroit,Platinum,95,4750.00,Home Goods,2023-11-27,0.21,29.1,10,55,"Top quality items and great support.",5,Loyal,0
+16,47,Female,Portland,Bronze,0,0.00,Beauty,2022-03-22,0.01,0.8,0,0,"Signed up but never bought anything.",0,Disengaged,1
+17,24,Male,Austin,Silver,10,550.00,Electronics,2023-12-02,0.17,23.0,8,28,"Found the perfect gadget!",5,New,0
+18,65,Female,Jacksonville,Bronze,6,200.00,Books,2022-11-11,0.04,4.8,1,4,"Book quality was average.",2,Disengaged,1
+19,39,Male,Columbus,Gold,85,4250.00,Clothing,2023-11-26,0.19,27.0,9,52,"Always find stylish items here.",5,Loyal,0
+20,51,Male,Charlotte,Bronze,3,90.00,Home Goods,2022-06-30,0.03,3.5,1,3,"Expected better durability.",1,Bargain Hunter,1
+21,26,Female,Fort Worth,Silver,15,750.00,Groceries,2023-12-04,0.13,17.0,6,20,"Fresh items and convenient service.",4,Impulsive Buyer,0
+22,60,Male,Indianapolis,Bronze,1,30.00,Beauty,2022-08-08,0.02,2.0,0,1,"Didn't suit my skin type.",1,Disengaged,1
+23,30,Male,Seattle,Gold,55,2750.00,Electronics,2023-11-21,0.20,26.5,8,48,"Cutting edge tech, love it!",5,Loyal,0
+24,43,Female,Denver,Bronze,0,0.00,Books,2022-01-05,0.01,0.5,0,0,"Completely forgot about this account.",0,Disengaged,1
+25,21,Female,Nashville,Silver,7,350.00,Clothing,2023-12-05,0.15,21.5,7,22,"Fun clothes for my age group.",4,New,0
+26,57,Male,El Paso,Bronze,2,50.00,Home Goods,2022-10-01,0.04,4.0,1,3,"Item broke after a week.",2,Disengaged,1
+27,37,Male,Milwaukee,Platinum,105,5250.00,Groceries,2023-11-24,0.23,31.0,10,65,"Reliable and fresh, always on time.",5,Loyal,0
+28,48,Female,Las Vegas,Bronze,4,120.00,Beauty,2022-07-15,0.03,3.8,2,5,"Packaging was damaged.",1,Bargain Hunter,1
+29,23,Male,Oklahoma City,Silver,9,400.00,Electronics,2023-12-06,0.16,20.5,7,26,"Decent prices on electronics.",4,Impulsive Buyer,0
+30,68,Female,Tucson,Bronze,0,0.00,Books,2022-04-28,0.01,1.0,0,0,"Stopped ordering physical books.",0,Disengaged,1

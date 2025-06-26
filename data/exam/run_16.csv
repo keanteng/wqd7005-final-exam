@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+cust_001,35,Female,New York,Gold,25,$1500.50,Electronics,2023-10-20,5.2,15.5,High,Clicked frequently,"Excellent service and products! Very happy.",0.92,Loyal,0
+cust_002,48,Male,Los Angeles,Silver,10,$500.00,Clothing,2023-09-15,3.1,8.2,Medium,Clicked occasionally,"Decent quality, but shipping was slow.",0.65,Occasional Shopper,0
+cust_003,29,Other,Chicago,Bronze,3,$85.75,Beauty,2023-07-01,1.5,3.1,Low,No clicks,"Product was okay, nothing special.",0.45,Bargain Hunter,1
+cust_004,55,Female,Houston,Platinum,40,$5000.00,Home Goods,2023-11-01,7.8,25.0,High,Clicked frequently,"Always find what I need, top-notch!",0.98,Loyal,0
+cust_005,22,Male,Phoenix,Bronze,1,$20.00,Electronics,2023-05-10,0.5,1.0,Low,No clicks,"Didn't like the item, won't shop again.",0.15,Impulsive Buyer,1
+cust_006,41,Female,Philadelphia,Gold,18,$1200.00,Clothing,2023-10-28,6.0,18.7,High,Clicked occasionally,"Reliable site, good variety.",0.88,Loyal,0
+cust_007,33,Male,San Antonio,Silver,7,$350.20,Home Goods,2023-08-20,2.9,7.5,Medium,Clicked rarely,"Average experience, expected better.",0.55,Occasional Shopper,1
+cust_008,60,Other,San Diego,Platinum,30,$3000.00,Beauty,2023-11-05,8.5,30.2,High,Clicked frequently,"Premium products and great support.",0.95,Loyal,0
+cust_009,27,Female,Dallas,Bronze,2,$55.50,Electronics,2023-06-15,1.2,2.5,Low,No clicks,"Found cheaper elsewhere.",0.30,Bargain Hunter,1
+cust_010,50,Male,San Jose,Gold,22,$1800.00,Clothing,2023-10-18,6.5,20.0,High,Clicked frequently,"Satisfied with my purchases.",0.85,Loyal,0
+cust_011,38,Female,Austin,Silver,9,$450.00,Home Goods,2023-09-01,3.5,9.0,Medium,Clicked occasionally,"Service was okay, slow delivery.",0.60,Occasional Shopper,0
+cust_012,45,Male,Jacksonville,Bronze,4,$100.00,Beauty,2023-07-25,1.8,4.0,Low,No clicks,"Product quality was poor.",0.25,Occasional Shopper,1
+cust_013,31,Other,Fort Worth,Gold,15,$1000.00,Electronics,2023-10-25,5.8,17.8,High,Clicked frequently,"Smooth shopping experience.",0.90,Loyal,0
+cust_014,58,Female,Columbus,Platinum,35,$4000.00,Clothing,2023-11-10,8.0,28.5,High,Clicked frequently,"Couldn't be happier with this store.",0.99,Loyal,0
+cust_015,24,Male,Charlotte,Bronze,1,$15.00,Home Goods,2023-04-01,0.8,1.5,Low,No clicks,"Never used the site again after the first try.",0.10,Window Shopper,1
+cust_016,49,Female,Indianapolis,Silver,8,$400.00,Beauty,2023-08-10,3.0,8.0,Medium,Clicked occasionally,"Goods arrived damaged.",0.35,Occasional Shopper,1
+cust_017,36,Male,Seattle,Gold,20,$1600.00,Electronics,2023-10-30,6.2,19.0,High,Clicked frequently,"My go-to for electronics.",0.91,Loyal,0
+cust_018,53,Other,Denver,Platinum,28,$2800.00,Clothing,2023-11-08,7.5,26.0,High,Clicked frequently,"Highly recommend this membership.",0.96,Loyal,0
+cust_019,26,Female,Washington,Bronze,3,$70.00,Home Goods,2023-06-20,1.4,3.5,Low,No clicks,"Expensive for the quality.",0.28,Bargain Hunter,1
+cust_020,43,Male,Boston,Silver,11,$550.00,Beauty,2023-09-25,3.2,8.8,Medium,Clicked occasionally,"It was okay, nothing special.",0.50,Occasional Shopper,0
+cust_021,30,Female,El Paso,Bronze,2,$60.00,Electronics,2023-05-20,1.0,2.0,Low,No clicks,"Site was confusing to navigate.",0.20,Window Shopper,1
+cust_022,51,Male,Detroit,Gold,16,$1100.00,Clothing,2023-10-15,5.5,16.0,High,Clicked frequently,"Good value for money.",0.89,Loyal,0
+cust_023,39,Other,Nashville,Silver,6,$300.00,Home Goods,2023-08-05,2.7,7.0,Medium,Clicked rarely,"Customer service was unhelpful.",0.40,Occasional Shopper,1
+cust_024,62,Female,Portland,Platinum,32,$3500.00,Beauty,2023-11-12,8.2,29.0,High,Clicked frequently,"Excellent range of products.",0.97,Loyal,0
+cust_025,23,Male,Las Vegas,Bronze,1,$30.00,Clothing,2023-04-15,0.7,1.2,Low,No clicks,"Impulse buy, didn't return.",0.32,Impulsive Buyer,1
+cust_026,47,Female,Memphis,Silver,7,$380.00,Electronics,2023-09-10,2.8,7.2,Medium,Clicked occasionally,"Product failed quickly.",0.38,Occasional Shopper,1
+cust_027,34,Male,Louisville,Gold,19,$1400.00,Home Goods,2023-10-22,5.9,18.0,High,Clicked frequently,"Satisfied repeat customer.",0.93,Loyal,0
+cust_028,56,Other,Baltimore,Platinum,38,$4500.00,Clothing,2023-11-03,8.1,27.5,High,Clicked frequently,"Best online shopping experience.",0.99,Loyal,0
+cust_029,25,Female,Milwaukee,Bronze,2,$45.00,Beauty,2023-06-01,1.1,2.8,Low,No clicks,"Price was too high for me.",0.29,Bargain Hunter,1
+cust_030,40,Male,Albuquerque,Silver,5,$250.00,Electronics,2023-07-10,2.5,6.5,Medium,Clicked rarely,"Website was buggy.",0.42,Occasional Shopper,1

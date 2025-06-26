@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+C001,45,Female,New York,Gold,25,1500.50,Electronics,2023-10-15,0.65,20.5,High,TRUE,"Excellent service and products! Very satisfied.",0.9,Loyal,0
+C002,32,Male,Los Angeles,Silver,10,350.75,Clothing,2023-11-20,0.40,15.2,Medium,FALSE,"Good variety, decent quality.",0.6,Casual Shopper,0
+C003,58,Female,Chicago,Platinum,40,5500.00,Home Goods,2023-11-01,0.78,30.1,High,TRUE,"Absolutely love this store! Top-notch.",1.0,Loyal,0
+C004,28,Male,Houston,Bronze,5,120.99,Books,2023-09-10,0.25,8.5,Low,FALSE,"Product was okay, delivery was slow.",0.2,Bargain Hunter,1
+C005,50,Female,Phoenix,Silver,18,850.20,Beauty,2023-10-28,0.55,18.0,Medium,TRUE,"Happy with my purchases, good value.",0.7,Engaged Buyer,0
+C006,65,Male,Philadelphia,Gold,30,2100.30,Sports,2023-11-25,0.70,25.8,High,TRUE,"Reliable source for my hobby needs.",0.8,Loyal,0
+C007,22,Female,San Antonio,Bronze,3,75.00,Toys,2022-05-18,0.15,5.0,Low,FALSE,"Didn't find what I was looking for.",-0.3,Casual Shopper,1
+C008,41,Male,San Diego,Silver,12,480.60,Electronics,2023-11-10,0.48,16.5,Medium,FALSE,"Items arrived quickly and work well.",0.7,Engaged Buyer,0
+C009,35,Female,Dallas,Bronze,7,150.00,Clothing,2022-08-01,0.10,3.2,Low,TRUE,"Poor customer service experience.",-0.8,Dissatisfied Customer,1
+C010,53,Male,San Jose,Platinum,55,7800.00,Electronics,2023-11-28,0.85,35.5,High,TRUE,"Always find the latest gadgets here.",1.0,Loyal,0
+C011,29,Female,Austin,Bronze,4,90.50,Beauty,2023-06-15,0.20,6.8,Low,FALSE,"Prices are a bit high.",0.1,Bargain Hunter,1
+C012,48,Male,Jacksonville,Gold,28,1800.70,Home Goods,2023-11-18,0.68,22.3,High,FALSE,"Quality products that last.",0.9,Loyal,0
+C013,38,Female,Indianapolis,Silver,9,310.45,Books,2023-11-05,0.52,14.0,Medium,TRUE,"Good selection of titles.",0.6,Casual Shopper,0
+C014,60,Male,Columbus,Bronze,2,45.00,Sports,2022-01-20,0.05,1.5,Low,FALSE,"Website was difficult to navigate.",-0.6,Lapsed Customer,1
+C015,25,Female,Fort Worth,Silver,15,600.00,Clothing,2023-11-22,0.60,19.8,Medium,FALSE,"Trendy clothes at fair prices.",0.7,Engaged Buyer,0
+C016,55,Male,Charlotte,Platinum,35,4500.00,Electronics,2023-11-29,0.80,28.0,High,TRUE,"My go-to for all things tech.",0.9,Loyal,0
+C017,31,Female,San Francisco,Bronze,6,110.25,Beauty,2023-03-01,0.18,4.5,Low,TRUE,"Product didn't live up to the hype.",-0.4,Dissatisfied Customer,1
+C018,43,Male,Seattle,Gold,20,1200.80,Sports,2023-11-14,0.75,24.0,High,FALSE,"Great gear for outdoor activities.",0.8,Loyal,0
+C019,27,Female,Denver,Silver,8,250.00,Home Goods,2023-11-08,0.42,12.5,Medium,TRUE,"Found some nice items for my apartment.",0.5,Casual Shopper,0
+C020,62,Male,Washington D.C.,Bronze,1,20.00,Books,2021-11-11,0.03,0.8,Low,FALSE,"Lost interest after first visit.",-0.1,Lapsed Customer,1
+C021,39,Female,Boston,Gold,22,1650.00,Clothing,2023-11-27,0.72,21.5,High,TRUE,"Fashionable clothes, always updated.",0.9,Loyal,0
+C022,34,Male,El Paso,Bronze,3,60.00,Electronics,2022-06-01,0.12,3.0,Low,FALSE,"Had issues with my order.",-0.5,Dissatisfied Customer,1
+C023,51,Female,Detroit,Silver,14,550.30,Beauty,2023-11-19,0.58,17.0,Medium,FALSE,"Regularly find good deals here.",0.7,Engaged Buyer,0
+C024,47,Male,Nashville,Platinum,38,5200.00,Home Goods,2023-11-30,0.88,32.0,High,TRUE,"Premium quality items for my home.",1.0,Loyal,0
+C025,26,Female,Portland,Bronze,5,100.00,Sports,2023-05-10,0.16,4.0,Low,TRUE,"Didn't have the specific item I wanted.",-0.2,Casual Shopper,1
+C026,59,Male,Las Vegas,Gold,26,1750.90,Electronics,2023-11-16,0.67,23.5,High,FALSE,"Satisfied with the performance of products.",0.8,Loyal,0
+C027,33,Female,Oklahoma City,Silver,11,380.00,Books,2023-11-03,0.50,13.8,Medium,TRUE,"Found some rare editions.",0.6,Engaged Buyer,0
+C028,68,Male,Memphis,Bronze,2,35.00,Clothing,2021-10-05,0.02,0.5,Low,FALSE,"Completely stopped using the service.",-0.7,Lapsed Customer,1
+C029,49,Female,Louisville,Gold,29,1900.50,Beauty,2023-11-21,0.71,26.0,High,FALSE,"Always find my favorite products in stock.",0.9,Loyal,0
+C030,37,Male,Milwaukee,Bronze,4,85.00,Sports,2022-09-15,0.14,3.5,Low,FALSE,"The return process was complicated.",-0.9,Dissatisfied Customer,1

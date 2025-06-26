@@ -1,11 +1,22 @@
-You are a data scienties tasked to DBSCAN clustering on a retail dataset with 8 indiviudals shops. All the shops purchase data are collected as such showing the first few rows:
+You should generate dataset of 30 random customer based on the provided instruction to analysis their behavior and predict churn in CSV format.
 
-```
-StoreID,Date,total_revenue,avg_transaction_value,transaction_count,unique_customers,unique_products,total_quantity,total_discounts,revenue_per_customer,items_per_transaction
-1,2022-01-01,6510.12,171.31894736842105,38,12,27,75,150.01999999999998,542.51,1.9736842105263157
-1,2022-01-02,3683.01,175.3814285714286,21,10,17,41,112.7,368.30100000000004,1.9523809523809523
-1,2022-01-03,1943.75,161.97916666666666,12,5,12,23,33.36,388.75,1.9166666666666667
-1,2022-01-04,6051.44,208.6703448275862,29,11,21,63,7.84,550.1309090909091,2.1724137931034484
-```
+Below shows the data schema description and you should try to have a balance of deteriorated and non-deteriorated patients.
 
-Perform the tasks using the data by suggesting relevant codes. I have provided you some sample for your reference but you are encourage to think out of the box
+Data Schema:
+CustomerID: Unique identifier for each customer
+Age: Age of the customer
+Gender: Gender of the customer
+Location: A random location
+MembershipLevel: The level of membership (e.g., Bronze, Silver, Gold, Platinum)
+TotalPurchases: Total number of purchases made by the customer
+TotalSpent: Total amount spent by the customer
+FavoriteCategory: Favorite product category of the customer
+LastPurchaseDate: Date of the last purchase
+WebsiteClickRate: Click-through rate on the website
+TimeSpentOnSite: Average time spent on the site per visit
+SocialMediaEngagement: Engagement level on social media
+AdClickHistory: History of ad clicks
+GeneratedReview: Customer review generated based on their experience
+CustomerSentimentScore: Sentiment score of the customer review
+PersonaTag: A tag representing the customer's persona (e.g., Loyal, Bargain Hunter, Impulsive Buyer)
+Churn: Numeric number representing if the customer has churned (1/0)

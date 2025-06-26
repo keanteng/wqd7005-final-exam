@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Male,Los Angeles,Gold,25,1500.75,Electronics,2023-11-15,12.5,15.2,8,Frequent,"Great service and fast delivery. Products are top quality.",92,Loyal,0
+2,32,Female,New York,Silver,10,350.20,Clothing,2023-10-28,8.1,9.5,6,Occasional,"Happy with my recent purchase, fit perfectly.",85,Engaged Buyer,0
+3,58,Other,Chicago,Bronze,3,85.50,Books,2023-01-20,2.5,4.1,1,None,"Found a couple of good reads, but haven't bought anything lately.",55,Inactive,1
+4,28,Male,Houston,Platinum,40,3500.00,Home Goods,2023-12-01,15.0,20.1,10,Frequent,"Excellent selection and premium service. Always my go-to store.",98,High-Value,0
+5,51,Female,Phoenix,Silver,8,210.80,Beauty,2023-09-10,6.5,7.8,4,Occasional,"Products are decent, but shipping took longer than expected.",68,Bargain Hunter,1
+6,39,Male,Philadelphia,Gold,18,950.60,Sports,2023-11-29,10.2,12.3,7,Frequent,"Reliable products and good discounts during sales.",88,Loyal,0
+7,24,Female,San Antonio,Bronze,2,45.00,Clothing,2023-03-05,1.8,3.0,0,None,"Made one purchase, was just okay. Didn't feel the need to return.",30,New Customer,1
+8,62,Male,San Diego,Silver,12,600.10,Electronics,2023-10-18,9.5,11.0,5,Occasional,"Bought a gadget, works well. No complaints.",78,Steady Customer,0
+9,47,Female,Dallas,Bronze,5,120.75,Home Goods,2023-05-12,3.1,5.5,2,None,"Ordered a few items, but the quality wasn't what I hoped for some.",45,Dissatisfied,1
+10,35,Other,San Jose,Platinum,55,5200.00,Electronics,2023-11-25,18.0,25.5,9,Frequent,"Consistently great products and support. Worth the membership.",95,Advocate,0
+11,30,Male,Austin,Silver,7,200.00,Books,2023-08-01,5.0,6.5,3,Occasional,"Bought a few books months ago. Site is easy to use.",60,Inactive,1
+12,41,Female,Jacksonville,Bronze,1,25.00,Beauty,2022-12-10,0.5,1.2,0,None,"Made one small purchase ages ago.",10,Lapsed,1
+13,55,Male,Indianapolis,Gold,20,1100.90,Sports,2023-11-08,11.5,14.0,7,Frequent,"Good range of sports gear, sales are a plus.",89,Loyal,0
+14,27,Female,San Francisco,Silver,9,300.50,Clothing,2023-10-30,9.0,10.8,8,Frequent,"Love their seasonal collections! Site navigation is good.",87,Fashion Enthusiast,0
+15,49,Other,Columbus,Bronze,4,90.00,Home Goods,2023-04-22,2.0,3.5,1,None,"My last order had an item missing. Support was slow.",35,At Risk,1
+16,33,Male,Charlotte,Platinum,30,2800.00,Electronics,2023-12-02,16.5,22.0,9,Frequent,"Premium experience from start to finish.",96,High-Value,0
+17,60,Female,Fort Worth,Bronze,6,150.00,Books,2023-06-15,4.0,5.0,2,Occasional,"Purchased some books, found others cheaper elsewhere.",40,Price Sensitive,1
+18,22,Male,Detroit,Silver,11,400.00,Sports,2023-11-18,8.8,9.9,6,Occasional,"Found the gear I needed, quick delivery.",82,Active Buyer,0
+19,37,Female,El Paso,Bronze,2,50.00,Beauty,2023-02-01,1.0,2.0,0,None,"Bought a couple of items, nothing special. Site isn't very engaging.",25,Inactive,1
+20,43,Male,Seattle,Gold,22,1350.00,Home Goods,2023-11-20,13.0,16.5,8,Frequent,"Love the unique home items. Quality is consistent.",91,Loyal,0
+21,53,Other,Denver,Silver,7,180.00,Clothing,2023-07-07,5.5,7.0,3,None,"Bought clothes months ago, style wasn't quite right.",50,Seasonal Shopper,1
+22,31,Male,Washington D.C.,Platinum,45,4000.00,Electronics,2023-11-30,17.5,24.0,10,Frequent,"Always find the latest tech here first. Excellent.",97,Advocate,0
+23,29,Female,Boston,Bronze,3,75.00,Books,2023-05-20,2.2,4.0,1,Occasional,"Bought a few books, service was just okay.",48,Low Engagement,1
+24,48,Male,Nashville,Silver,15,750.00,Sports,2023-11-10,10.0,13.0,7,Frequent,"Good range for my sport. Happy with the service.",86,Steady Customer,0
+25,65,Female,Baltimore,Bronze,1,30.00,Beauty,2022-10-01,0.2,0.5,0,None,"Purchased one item over a year ago. Site is confusing.",5,Very Inactive,1
+26,36,Male,Oklahoma City,Gold,28,1800.00,Electronics,2023-11-22,14.0,18.0,9,Frequent,"Dependable source for electronics, good warranty options.",93,Loyal,0
+27,40,Other,Portland,Silver,6,160.00,Home Goods,2023-08-15,6.0,8.5,4,Occasional,"Bought some decorative items, they were fine.",65,Infrequent Buyer,1
+28,26,Male,Las Vegas,Platinum,35,3200.00,Clothing,2023-12-03,19.0,28.0,10,Frequent,"Love the exclusive collections! Fast delivery and great quality.",99,Fashion Enthusiast,0
+29,59,Female,Milwaukee,Bronze,2,60.00,Books,2023-04-10,1.5,3.0,0,None,"Purchased two books, didn't find much else of interest.",38,Limited Interest,1
+30,34,Male,Albuquerque,Silver,13,550.00,Sports,2023-11-28,9.2,11.5,6,Occasional,"Regularly check for sports gear. Good promotions.",84,Active Buyer,0

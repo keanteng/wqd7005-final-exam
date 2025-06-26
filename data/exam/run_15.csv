@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Male,"New York",Gold,55,2100.50,Clothing,2023-11-20,0.25,35.2,High,Yes,"Love the products and service. Highly recommend!",0.9,Loyal,0
+2,30,Female,"Los Angeles",Silver,12,350.75,Electronics,2023-12-01,0.18,22.5,Medium,Yes,"Good shopping experience, found what I needed.",0.7,Engaged,0
+3,62,Male,"Chicago",Platinum,85,5800.00,Home Goods,2024-01-05,0.32,45.8,High,No,"Excellent selection and fast delivery.",1.0,Loyal,0
+4,24,Female,"Houston",Bronze,3,55.20,Beauty,2023-10-15,0.08,8.1,Low,Yes,"Okay first purchase.",0.6,New Customer,0
+5,50,Male,"Phoenix",Gold,40,1500.90,Books,2023-11-28,0.28,30.1,High,No,"Reliable service, always find great books.",0.95,Loyal,0
+6,38,Female,"New York",Silver,22,780.30,Clothing,2024-01-10,0.21,28.9,Medium,Yes,"Satisfied with my recent orders.",0.8,Engaged,0
+7,70,Male,"Los Angeles",Platinum,110,7500.00,Electronics,2023-12-18,0.40,55.0,High,Yes,"Best online retailer for electronics!",1.0,Loyal,0
+8,29,Female,"Chicago",Bronze,7,120.50,Beauty,2023-09-25,0.07,10.2,Low,Yes,"Product was fine, website is a bit confusing.",0.5,Browsing,0
+9,41,Male,"Houston",Gold,35,1300.00,Home Goods,2024-01-02,0.29,38.5,High,No,"Consistent quality and good prices.",0.9,Loyal,0
+10,55,Female,"Phoenix",Silver,18,650.70,Books,2023-12-22,0.20,25.3,Medium,Yes,"Happy with my purchases so far.",0.75,Engaged,0
+11,33,Male,"New York",Bronze,2,35.00,Clothing,2022-05-10,0.03,5.5,Low,No,"Haven't visited in a while.",0.4,Inactive,1
+12,49,Female,"Los Angeles",Silver,8,200.00,Electronics,2022-08-15,0.05,7.8,Low,Yes,"Not what I expected, stopped using the site.",0.3,Dissatisfied Churner,1
+13,22,Male,"Chicago",Bronze,1,15.00,Books,2021-11-01,0.01,2.1,Low,No,"One-time purchase, didn't come back.",0.5,Passive Churner,1
+14,67,Female,"Houston",Gold,30,1200.00,Home Goods,2022-03-20,0.06,9.5,Medium,No,"Was a loyal customer but found better options elsewhere.",0.4,Dissatisfied Churner,1
+15,35,Male,"Phoenix",Bronze,5,80.50,Beauty,2022-10-10,0.02,4.3,Low,Yes,"Didn't really find products I liked.",0.35,Inactive,1
+16,42,Female,"New York",Silver,15,450.00,Clothing,2022-07-01,0.04,6.7,Low,No,"Site experience wasn't great.",0.2,Dissatisfied Churner,1
+17,58,Male,"Los Angeles",Platinum,50,4000.00,Electronics,2022-01-05,0.07,11.2,Medium,Yes,"Used to buy here often, not anymore.",0.45,Inactive,1
+18,27,Female,"Chicago",Bronze,4,60.00,Books,2021-12-18,0.02,3.5,Low,No,"Found another store.",0.3,Passive Churner,1
+19,53,Male,"Houston",Gold,25,950.00,Home Goods,2022-06-01,0.05,8.8,Low,Yes,"Prices weren't competitive anymore.",0.4,Dissatisfied Churner,1
+20,31,Female,"Phoenix",Silver,10,300.00,Beauty,2022-09-05,0.03,5.1,Low,No,"Lost interest in their products.",0.3,Inactive,1
+21,48,Male,"New York",Gold,60,2500.00,Clothing,2024-01-15,0.30,40.1,High,Yes,"Very satisfied, easy to find what I need.",0.92,Loyal,0
+22,26,Female,"Los Angeles",Silver,9,250.00,Electronics,2023-12-05,0.15,19.7,Medium,No,"Okay, sometimes slow delivery.",0.65,Engaged,0
+23,65,Male,"Chicago",Platinum,95,6200.00,Home Goods,2024-01-08,0.38,50.3,High,Yes,"Consistently high quality products.",0.98,Loyal,0
+24,39,Female,"Houston",Bronze,6,100.00,Beauty,2023-10-20,0.09,12.5,Low,Yes,"Found some good deals.",0.7,Bargain Hunter,0
+25,59,Male,"Phoenix",Gold,45,1800.00,Books,2023-11-15,0.26,33.0,High,No,"My go-to for all my reading needs.",0.93,Loyal,0
+26,34,Female,"New York",Bronze,3,40.00,Clothing,2022-04-01,0.02,4.8,Low,No,"Didn't find anything appealing after initial look.",0.3,Passive Churner,1
+27,47,Male,"Los Angeles",Silver,11,280.00,Electronics,2022-11-20,0.04,6.2,Low,Yes,"Website navigation was difficult.",0.25,Dissatisfied Churner,1
+28,21,Female,"Chicago",Bronze,1,20.00,Beauty,2021-09-10,0.01,1.5,Low,No,"Bought one item, never came back.",0.4,Passive Churner,1
+29,60,Male,"Houston",Gold,32,1100.00,Home Goods,2022-07-18,0.05,7.0,Low,Yes,"Used to be better, prices increased.",0.35,Dissatisfied Churner,1
+30,36,Female,"Phoenix",Silver,14,400.00,Books,2022-10-25,0.03,5.9,Low,No,"Lost interest in the site.",0.3,Inactive,1

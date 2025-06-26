@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,WebsiteClickRate,TimeSpentOnSite,SocialMediaEngagement,AdClickHistory,GeneratedReview,CustomerSentimentScore,PersonaTag,Churn
+1,45,Male,New York,Gold,25,750.50,Electronics,2023-10-20,0.35,15.2,"High","Yes","Very happy with the recent electronics purchase! Site was easy to navigate.",0.85,"Loyal",0
+2,32,Female,Los Angeles,Silver,8,120.75,Clothing,2024-01-15,0.10,4.5,"Medium","No","Clothes were okay, nothing special. Shipping was slow.",0.15,"Bargain Hunter",0
+3,58,Other,Chicago,Bronze,2,35.00,Books,2023-05-10,0.03,1.1,"Low","No","Didn't find much I liked.",-0.40,"Disengaged",1
+4,28,Female,Houston,Platinum,45,2500.00,Home Goods,2024-02-28,0.55,22.8,"High","Yes","Excellent quality products and fantastic customer service! Will definitely shop again.",0.95,"Loyal",0
+5,50,Male,Phoenix,Gold,15,500.20,Groceries,2023-11-01,0.18,7.3,"Medium","No","Groceries were fresh, standard service.",0.50,"Regular Shopper",0
+6,65,Female,Miami,Silver,3,55.50,Beauty,2023-03-20,0.05,2.5,"Low","No","Product wasn't what I expected.",-0.25,"At Risk",1
+7,22,Male,New York,Bronze,1,15.00,Clothing,2024-02-01,0.12,6.0,"Medium","Yes","First purchase was smooth.",0.60,"New Customer",0
+8,38,Other,Los Angeles,Platinum,60,3500.00,Electronics,2024-03-05,0.60,30.1,"High","Yes","Consistently great service and top-notch electronics.",0.98,"Loyal",0
+9,49,Female,Chicago,Gold,10,300.00,Books,2023-07-18,0.07,3.5,"Low","No","Used to buy more, but selection seems limited now.",-0.10,"At Risk",1
+10,30,Male,Houston,Silver,5,80.50,Clothing,2023-04-25,0.08,4.0,"Low","No","Didn't find much to buy recently.",-0.05,"Disengaged",1
+11,55,Female,Phoenix,Bronze,1,20.00,Home Goods,2023-01-10,0.02,0.9,"Low","No","Never really got into shopping here.",-0.30,"Churned",1
+12,41,Male,Miami,Platinum,30,1500.00,Beauty,2024-01-29,0.40,18.0,"High","Yes","Love the premium beauty products!",0.90,"Loyal",0
+13,25,Other,New York,Silver,6,90.00,Groceries,2023-12-10,0.15,5.5,"Medium","Yes","Decent prices on groceries.",0.45,"Regular Shopper",0
+14,62,Female,Los Angeles,Gold,18,650.00,Electronics,2023-09-01,0.25,10.5,"Medium","No","Satisfied with most purchases.",0.70,"Regular Shopper",0
+15,35,Male,Chicago,Bronze,2,40.00,Clothing,2023-06-05,0.04,1.5,"Low","No","Didn't like the fit of the clothes.",-0.50,"Churned",1
+16,48,Female,Houston,Platinum,55,3000.00,Books,2024-03-10,0.65,25.0,"High","Yes","Amazing selection of books, always find something!",0.99,"Loyal",0
+17,29,Male,Phoenix,Silver,7,110.00,Home Goods,2024-02-15,0.11,4.8,"Medium","No","Items were okay quality for the price.",0.30,"Bargain Hunter",0
+18,70,Other,Miami,Bronze,1,10.00,Groceries,2022-11-01,0.01,0.5,"Low","No","Found it difficult to use the site.",-0.60,"Churned",1
+19,33,Female,New York,Gold,20,700.00,Beauty,2024-01-05,0.30,14.0,"High","Yes","Reliable source for my beauty needs.",0.80,"Loyal",0
+20,53,Male,Los Angeles,Silver,4,60.00,Electronics,2023-08-20,0.06,2.0,"Low","No","Item I wanted was out of stock.",-0.15,"At Risk",1
+21,27,Female,Chicago,Bronze,1,25.00,Books,2023-02-18,0.03,1.0,"Low","No","Site was confusing.",-0.45,"Churned",1
+22,40,Other,Houston,Platinum,40,2200.00,Clothing,2024-03-15,0.50,20.0,"High","Yes","Fashion is always on point here!",0.92,"Loyal",0
+23,60,Male,Phoenix,Gold,12,400.00,Home Goods,2023-10-05,0.20,8.5,"Medium","Yes","Good range of home goods.",0.65,"Regular Shopper",0
+24,36,Female,Miami,Silver,3,50.00,Groceries,2023-07-01,0.09,3.0,"Low","No","Prices went up.",-0.20,"At Risk",1
+25,51,Male,New York,Bronze,1,18.00,Beauty,2023-04-12,0.02,0.8,"Low","No","Product caused irritation.",-0.55,"Churned",1
+26,24,Female,Los Angeles,Platinum,8,150.00,Electronics,2024-02-20,0.48,19.0,"High","Yes","Got a great deal on a new gadget!",0.88,"Impulsive Buyer",0
+27,47,Other,Chicago,Gold,16,550.00,Books,2024-01-25,0.28,12.0,"Medium","No","Always find interesting reads.",0.75,"Regular Shopper",0
+28,68,Male,Houston,Bronze,2,30.00,Clothing,2023-03-01,0.04,1.2,"Low","No","Sizes weren't accurate.",-0.35,"Churned",1
+29,31,Female,Phoenix,Silver,5,75.00,Home Goods,2023-05-15,0.08,3.8,"Low","Yes","Okay items, but could find better deals elsewhere.",-0.08,"Bargain Hunter",1
+30,43,Male,Miami,Platinum,22,900.00,Groceries,2024-03-01,0.42,16.5,"High","Yes","My go-to for premium groceries.",0.94,"Loyal",0

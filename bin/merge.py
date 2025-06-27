@@ -1,5 +1,6 @@
 import nbformat
 import sys
+import re
 
 def merge_notebooks(notebook_files, output_file):
     merged = None
@@ -8,9 +9,11 @@ def merge_notebooks(notebook_files, output_file):
         with open(notebook_file, 'r', encoding='utf-8') as f:
             nb = nbformat.read(f, as_version=4)
         
-        # Generate unique cell IDs
+        # Generate unique cell IDs with valid characters only
         for i, cell in enumerate(nb.cells):
-            cell['id'] = f"{notebook_file.replace('.ipynb', '')}_{i}"
+            # Clean the notebook filename to only contain valid characters
+            clean_name = re.sub(r'[^a-zA-Z0-9_-]', '_', notebook_file.replace('.ipynb', ''))
+            cell['id'] = f"{clean_name}_{i}"
         
         if merged is None:
             merged = nb
